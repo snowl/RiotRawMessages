@@ -1,0 +1,80 @@
+{
+  "$type": "System.Collections.Generic.List`1[[FluorineFx.Messaging.Rtmp.Event.Notify, FluorineFx]], mscorlib",
+  "$values": [
+    {
+      "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
+      "CmdData": null,
+      "Data": null,
+      "InvokeId": 0,
+      "ServiceCall": {
+        "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
+        "Result": null,
+        "IsSuccess": false,
+        "ServiceMethodName": "receive",
+        "ServiceName": null,
+        "Arguments": {
+          "$type": "System.Object[], mscorlib",
+          "$values": [
+            {
+              "$type": "DSA, LoLNotes",
+              "CorrelationId": null,
+              "CorrelationIdBytes": null,
+              "Body": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "titleCode": "celebration_received_mystery_gift_title",
+                "accountId": 200006292.0,
+                "dataVersion": 0,
+                "msgId": "eaabbafe-9bd2-4fd7-be1b-093426f3e988",
+                "params": {
+                  "$type": "FluorineFx.AMF3.ArrayCollection, FluorineFx",
+                  "$values": [
+                    "Snowl",
+                    "Idylliac",
+                    "Hey noobo grats on the shitty skin its about to give you.",
+                    "CHAMPION_SKIN",
+                    "30003",
+                    "1"
+                  ]
+                },
+                "type": "giftReceiver",
+                "futureData": null,
+                "bodyCode": "celebration_received_mystery_gift_body",
+                "TypeName": "com.riotgames.platform.messaging.persistence.SimpleDialogMessage"
+              },
+              "ClientId": "cn-200006292",
+              "ClientIdBytes": null,
+              "Destination": "messagingDestination",
+              "Headers": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "DSSubtopic": "cn-200006292"
+              },
+              "MessageId": "96cdd3fc-3791-4024-adee-f699050bf804",
+              "MessageIdBytes": null,
+              "TimeStamp": 1390959058324,
+              "TimeToLive": 0
+            }
+          ]
+        },
+        "Status": 1,
+        "Exception": null
+      },
+      "ConnectionParameters": null,
+      "EventType": 2,
+      "Header": {
+        "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
+        "ChannelId": 3,
+        "DataType": 17,
+        "Size": 545,
+        "StreamId": 0,
+        "Timer": 0,
+        "IsTimerRelative": false
+      },
+      "Object": null,
+      "Timestamp": 0,
+      "ExtendedTimestamp": -1,
+      "DataType": 17,
+      "Source": null,
+      "HasSource": false
+    }
+  ]
+}
