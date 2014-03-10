@@ -1,0 +1,118 @@
+{
+  "$type": "System.Collections.Generic.List`1[[FluorineFx.Messaging.Rtmp.Event.Notify, FluorineFx]], mscorlib",
+  "$values": [
+    {
+      "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
+      "CmdData": null,
+      "Data": null,
+      "InvokeId": 36,
+      "ServiceCall": {
+        "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
+        "Result": null,
+        "IsSuccess": false,
+        "ServiceMethodName": null,
+        "ServiceName": null,
+        "Arguments": {
+          "$type": "System.Object[], mscorlib",
+          "$values": [
+            {
+              "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
+              "source": null,
+              "operation": "call",
+              "headers": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "DSEndpoint": "my-rtmps",
+                "DSRequestTimeout": 60,
+                "DSId": "ABF0B443-C32C-360B-5C29-F11EFAB743F2"
+              },
+              "body": {
+                "$type": "System.Object[], mscorlib",
+                "$values": [
+                  "9EF0226A-39BF-8B28-4BD1-ADA84E9F2B46",
+                  "cap",
+                  "specifyAdvertisedRoleV1",
+                  "{\"slotId\":4,\"advertisedRole\":\"MARKSMAN\"}"
+                ]
+              },
+              "messageId": "370694C8-83C4-96F1-3C87-ADA84E9F1199",
+              "destination": "lcdsServiceProxy",
+              "clientId": null,
+              "timestamp": 0,
+              "timeToLive": 0
+            }
+          ]
+        },
+        "Status": 1,
+        "Exception": null
+      },
+      "ConnectionParameters": null,
+      "EventType": 2,
+      "Header": {
+        "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
+        "ChannelId": 3,
+        "DataType": 17,
+        "Size": 406,
+        "StreamId": 0,
+        "Timer": 1383,
+        "IsTimerRelative": true
+      },
+      "Object": null,
+      "Timestamp": 1383,
+      "ExtendedTimestamp": -1,
+      "DataType": 17,
+      "Source": null,
+      "HasSource": false
+    },
+    {
+      "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
+      "CmdData": null,
+      "Data": null,
+      "InvokeId": 36,
+      "ServiceCall": {
+        "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
+        "Result": null,
+        "IsSuccess": false,
+        "ServiceMethodName": "_result",
+        "ServiceName": null,
+        "Arguments": {
+          "$type": "System.Object[], mscorlib",
+          "$values": [
+            {
+              "$type": "DSK, LoLNotes",
+              "CorrelationId": "370694C8-83C4-96F1-3C87-ADA84E9F1199",
+              "CorrelationIdBytes": "7\u0006”ÈƒÄ–ñ<‡­¨NŸ\u0011™",
+              "Body": null,
+              "ClientId": "ABF8205F-FC0F-EA34-6069-F7B8F937615B",
+              "ClientIdBytes": "«ø _ü\u000fê4`i÷¸ù7a[",
+              "Destination": null,
+              "Headers": null,
+              "MessageId": "ABF8205F-FC29-0F0D-178A-5035A5F882E5",
+              "MessageIdBytes": "«ø _ü)\u000f\r\u0017ŠP5¥ø‚å",
+              "TimeStamp": 1394482898364,
+              "TimeToLive": 0
+            }
+          ]
+        },
+        "Status": 1,
+        "Exception": null
+      },
+      "ConnectionParameters": null,
+      "EventType": 2,
+      "Header": {
+        "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
+        "ChannelId": 3,
+        "DataType": 17,
+        "Size": 95,
+        "StreamId": 0,
+        "Timer": 0,
+        "IsTimerRelative": false
+      },
+      "Object": null,
+      "Timestamp": 0,
+      "ExtendedTimestamp": -1,
+      "DataType": 17,
+      "Source": null,
+      "HasSource": false
+    }
+  ]
+}

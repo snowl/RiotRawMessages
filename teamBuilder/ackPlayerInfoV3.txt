@@ -1,0 +1,67 @@
+{
+  "$type": "System.Collections.Generic.List`1[[FluorineFx.Messaging.Rtmp.Event.Notify, FluorineFx]], mscorlib",
+  "$values": [
+    {
+      "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
+      "CmdData": null,
+      "Data": null,
+      "InvokeId": 0,
+      "ServiceCall": {
+        "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
+        "Result": null,
+        "IsSuccess": false,
+        "ServiceMethodName": "receive",
+        "ServiceName": null,
+        "Arguments": {
+          "$type": "System.Object[], mscorlib",
+          "$values": [
+            {
+              "$type": "DSA, LoLNotes",
+              "CorrelationId": null,
+              "CorrelationIdBytes": null,
+              "Body": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "status": "ACK",
+                "payload": null,
+                "messageId": "805FBA83-59AB-E86F-502F-ADA5751980B7",
+                "methodName": "retrievePlayerInfoV3",
+                "serviceName": "cap",
+                "TypeName": "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse"
+              },
+              "ClientId": "cn-206884934",
+              "ClientIdBytes": null,
+              "Destination": "messagingDestination",
+              "Headers": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "DSSubtopic": "cn-206884934"
+              },
+              "MessageId": "749d0dad-0e81-4c3d-aaa9-cd722be575fa",
+              "MessageIdBytes": null,
+              "TimeStamp": 1394482711604,
+              "TimeToLive": 0
+            }
+          ]
+        },
+        "Status": 1,
+        "Exception": null
+      },
+      "ConnectionParameters": null,
+      "EventType": 2,
+      "Header": {
+        "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
+        "ChannelId": 3,
+        "DataType": 17,
+        "Size": 313,
+        "StreamId": 0,
+        "Timer": 0,
+        "IsTimerRelative": false
+      },
+      "Object": null,
+      "Timestamp": 0,
+      "ExtendedTimestamp": -1,
+      "DataType": 17,
+      "Source": null,
+      "HasSource": false
+    }
+  ]
+}
