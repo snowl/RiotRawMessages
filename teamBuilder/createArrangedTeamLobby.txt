@@ -1,0 +1,147 @@
+{
+  "$type": "System.Collections.Generic.List`1[[FluorineFx.Messaging.Rtmp.Event.Notify, FluorineFx]], mscorlib",
+  "$values": [
+    {
+      "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
+      "CmdData": null,
+      "Data": null,
+      "InvokeId": 39,
+      "ServiceCall": {
+        "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
+        "Result": null,
+        "IsSuccess": false,
+        "ServiceMethodName": null,
+        "ServiceName": null,
+        "Arguments": {
+          "$type": "System.Object[], mscorlib",
+          "$values": [
+            {
+              "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
+              "source": null,
+              "operation": "createGroupFinderLobby",
+              "headers": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "DSEndpoint": "my-rtmps",
+                "DSRequestTimeout": 60,
+                "DSId": "B9663623-D41A-6C77-A4A0-68886D1A3AE6"
+              },
+              "body": {
+                "$type": "System.Object[], mscorlib",
+                "$values": [
+                  61,
+                  "e4bee347-c536-4ca7-a758-f47fef771708"
+                ]
+              },
+              "messageId": "C6557B48-72CC-D8F6-ACD0-B32917AE5170",
+              "destination": "lcdsGameInvitationService",
+              "clientId": null,
+              "timestamp": 0,
+              "timeToLive": 0
+            }
+          ]
+        },
+        "Status": 1,
+        "Exception": null
+      },
+      "ConnectionParameters": null,
+      "EventType": 2,
+      "Header": {
+        "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
+        "ChannelId": 3,
+        "DataType": 17,
+        "Size": 363,
+        "StreamId": 0,
+        "Timer": 847,
+        "IsTimerRelative": true
+      },
+      "Object": null,
+      "Timestamp": 847,
+      "ExtendedTimestamp": -1,
+      "DataType": 17,
+      "Source": null,
+      "HasSource": false
+    },
+    {
+      "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
+      "CmdData": null,
+      "Data": null,
+      "InvokeId": 39,
+      "ServiceCall": {
+        "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
+        "Result": null,
+        "IsSuccess": false,
+        "ServiceMethodName": "_result",
+        "ServiceName": null,
+        "Arguments": {
+          "$type": "System.Object[], mscorlib",
+          "$values": [
+            {
+              "$type": "DSK, LoLNotes",
+              "CorrelationId": "C6557B48-72CC-D8F6-ACD0-B32917AE5170",
+              "CorrelationIdBytes": "ÆU{HrÌØö¬Ð³)\u0017®Qp",
+              "Body": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "chatKey": "h79ZtFO4mG",
+                "gameMetaData": "{\"queueId\":61,\"groupFinderId\":\"e4bee347-c536-4ca7-a758-f47fef771708\",\"mapId\":1,\"gameTypeConfigId\":12,\"gameMode\":\"CLASSIC\",\"gameType\":\"NORMAL_GAME\"}",
+                "owner": {
+                  "$type": "FluorineFx.ASObject, FluorineFx",
+                  "summonerName": "Snowl",
+                  "summonerId": 222908.0,
+                  "TypeName": "com.riotgames.platform.gameinvite.contract.Player"
+                },
+                "members": {
+                  "$type": "FluorineFx.AMF3.ArrayCollection, FluorineFx",
+                  "$values": [
+                    222908.0
+                  ]
+                },
+                "invitees": {
+                  "$type": "FluorineFx.AMF3.ArrayCollection, FluorineFx",
+                  "$values": [
+                    {
+                      "$type": "FluorineFx.ASObject, FluorineFx",
+                      "inviteeStateAsString": "JOINED",
+                      "summonerName": "Snowl",
+                      "inviteeState": "JOINED",
+                      "summonerId": 222908.0,
+                      "TypeName": "com.riotgames.platform.gameinvite.contract.Invitee"
+                    }
+                  ]
+                },
+                "invitationId": "INVID2137588",
+                "TypeName": "com.riotgames.platform.gameinvite.contract.LobbyStatus"
+              },
+              "ClientId": "B967A502-4909-0FBD-7B05-2EC55CA82132",
+              "ClientIdBytes": "¹g¥\u0002I\t\u000f½{\u0005.Å\\¨!2",
+              "Destination": null,
+              "Headers": null,
+              "MessageId": "B967A518-4208-3152-F5CD-790DBC40BD95",
+              "MessageIdBytes": "¹g¥\u0018B\b1RõÍy\r¼@½•",
+              "TimeStamp": 1394575227234,
+              "TimeToLive": 0
+            }
+          ]
+        },
+        "Status": 1,
+        "Exception": null
+      },
+      "ConnectionParameters": null,
+      "EventType": 2,
+      "Header": {
+        "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
+        "ChannelId": 3,
+        "DataType": 17,
+        "Size": 640,
+        "StreamId": 0,
+        "Timer": 0,
+        "IsTimerRelative": false
+      },
+      "Object": null,
+      "Timestamp": 0,
+      "ExtendedTimestamp": -1,
+      "DataType": 17,
+      "Source": null,
+      "HasSource": false
+    }
+  ]
+}
