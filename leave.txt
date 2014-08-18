@@ -5,7 +5,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 82,
+      "InvokeId": 68,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -17,7 +17,7 @@
           "$values": [
             {
               "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
-              "operation": "selectChampion",
+              "operation": "leave",
               "source": null,
               "headers": {
                 "$type": "FluorineFx.ASObject, FluorineFx",
@@ -28,14 +28,12 @@
               "clientId": null,
               "body": {
                 "$type": "System.Object[], mscorlib",
-                "$values": [
-                  42
-                ]
+                "$values": []
               },
-              "messageId": "ECC798B4-19DE-CC92-43D4-E3654835C5C8",
+              "messageId": "F1A47D87-7C4D-8911-AA9D-E363B20DF5F1",
               "timeToLive": 0,
               "timestamp": 0,
-              "destination": "gameService"
+              "destination": "lcdsGameInvitationService"
             }
           ]
         },
@@ -48,13 +46,13 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 303,
+        "Size": 306,
         "StreamId": 0,
-        "Timer": 42632,
+        "Timer": 4,
         "IsTimerRelative": true
       },
       "Object": null,
-      "Timestamp": 42632,
+      "Timestamp": 4,
       "ExtendedTimestamp": -1,
       "DataType": 17,
       "Source": null,
@@ -64,7 +62,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 78,
+      "InvokeId": 68,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -76,16 +74,16 @@
           "$values": [
             {
               "$type": "DSK, LoLNotes",
-              "CorrelationId": "ECC798B4-19DE-CC92-43D4-E3654835C5C8",
-              "CorrelationIdBytes": "ìÇ˜´\u0019ÞÌ’CÔãeH5ÅÈ",
+              "CorrelationId": "F1A47D87-7C4D-8911-AA9D-E363B20DF5F1",
+              "CorrelationIdBytes": "ñ¤}‡|M‰\u0011ªãc²\rõñ",
               "Body": null,
-              "ClientId": "822AA916-B60B-C5E6-F41B-C3D409075690",
-              "ClientIdBytes": "‚*©\u0016¶\u000bÅæô\u001bÃÔ\t\u0007V",
+              "ClientId": "8226CB84-A259-75BE-9F25-2AE4BE63C667",
+              "ClientIdBytes": "‚&Ë„¢Yu¾Ÿ%*ä¾cÆg",
               "Destination": null,
               "Headers": null,
-              "MessageId": "822AA931-912C-CC14-F93D-2646A2A81363",
-              "MessageIdBytes": "‚*©1‘,Ì\u0014ù=&F¢¨\u0013c",
-              "TimeStamp": 1408269381921,
+              "MessageId": "8226CB8B-F509-6C70-E8C7-1F34D5CE982F",
+              "MessageIdBytes": "‚&Ë‹õ\tlpèÇ\u001f4ÕÎ˜/",
+              "TimeStamp": 1408269278149,
               "TimeToLive": 0
             }
           ]

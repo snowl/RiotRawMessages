@@ -5,7 +5,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 65,
+      "InvokeId": 13,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -17,7 +17,7 @@
           "$values": [
             {
               "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
-              "operation": "createArrangedTeamLobby",
+              "operation": "getMyLeaguePositions",
               "source": null,
               "headers": {
                 "$type": "FluorineFx.ASObject, FluorineFx",
@@ -28,14 +28,12 @@
               "clientId": null,
               "body": {
                 "$type": "System.Object[], mscorlib",
-                "$values": [
-                  2
-                ]
+                "$values": []
               },
-              "messageId": "EEDFD782-42F8-E116-F0C7-E363195FB10A",
+              "messageId": "F55F0528-C78C-4B0E-5C7F-E359A4E42262",
               "timeToLive": 0,
               "timestamp": 0,
-              "destination": "lcdsGameInvitationService"
+              "destination": "leaguesServiceProxy"
             }
           ]
         },
@@ -48,13 +46,13 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 326,
+        "Size": 315,
         "StreamId": 0,
-        "Timer": 16684,
+        "Timer": 26,
         "IsTimerRelative": true
       },
       "Object": null,
-      "Timestamp": 16684,
+      "Timestamp": 26,
       "ExtendedTimestamp": -1,
       "DataType": 17,
       "Source": null,
@@ -64,7 +62,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 65,
+      "InvokeId": 13,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -76,53 +74,72 @@
           "$values": [
             {
               "$type": "DSK, LoLNotes",
-              "CorrelationId": "EEDFD782-42F8-E116-F0C7-E363195FB10A",
-              "CorrelationIdBytes": "îß×‚Bøá\u0016ðÇãc\u0019_±\n",
+              "CorrelationId": "F55F0528-C78C-4B0E-5C7F-E359A4E42262",
+              "CorrelationIdBytes": "õ_\u0005(ÇŒK\u000e\\ãY¤ä\"b",
               "Body": {
                 "$type": "FluorineFx.ASObject, FluorineFx",
-                "chatKey": "YK9e8IJ1aS",
-                "gameMetaData": "{\"queueId\":2,\"isRanked\":false,\"rankedTeamName\":\"\",\"rankedTeamId\":\"\",\"mapId\":1,\"gameTypeConfigId\":1,\"gameMode\":\"CLASSIC\",\"gameType\":\"NORMAL_GAME\"}",
-                "owner": {
-                  "$type": "FluorineFx.ASObject, FluorineFx",
-                  "summonerName": "Snowl",
-                  "summonerId": 222908.0,
-                  "TypeName": "com.riotgames.platform.gameinvite.contract.Player"
-                },
-                "members": {
+                "summonerLeagues": {
                   "$type": "FluorineFx.AMF3.ArrayCollection, FluorineFx",
                   "$values": [
                     {
                       "$type": "FluorineFx.ASObject, FluorineFx",
-                      "hasDelegatedInvitePower": false,
-                      "summonerName": "Snowl",
-                      "summonerId": 222908.0,
-                      "TypeName": "com.riotgames.platform.gameinvite.contract.Member"
-                    }
-                  ]
-                },
-                "invitees": {
-                  "$type": "FluorineFx.AMF3.ArrayCollection, FluorineFx",
-                  "$values": [
+                      "previousDayLeaguePosition": 29,
+                      "timeLastDecayMessageShown": 1405301345865.0,
+                      "hotStreak": false,
+                      "leagueName": "Taric's Shadehunters",
+                      "miniSeries": null,
+                      "tier": "GOLD",
+                      "freshBlood": false,
+                      "lastPlayed": 1407216344414.0,
+                      "playerOrTeamId": "222908",
+                      "leaguePoints": 30,
+                      "demotionWarning": 0,
+                      "inactive": false,
+                      "rank": "IV",
+                      "veteran": false,
+                      "queueType": "RANKED_SOLO_5x5",
+                      "losses": 57,
+                      "timeUntilDecay": 1366925187.0,
+                      "displayDecayWarning": false,
+                      "playerOrTeamName": "Snowl",
+                      "wins": 64,
+                      "TypeName": "com.riotgames.leagues.pojo.LeagueItemDTO"
+                    },
                     {
                       "$type": "FluorineFx.ASObject, FluorineFx",
-                      "inviteeStateAsString": "CREATOR",
-                      "summonerName": "Snowl",
-                      "inviteeState": "CREATOR",
-                      "summonerId": 222908.0,
-                      "TypeName": "com.riotgames.platform.gameinvite.contract.Invitee"
+                      "previousDayLeaguePosition": 1,
+                      "timeLastDecayMessageShown": 0.0,
+                      "hotStreak": false,
+                      "leagueName": "Corki's Legion",
+                      "miniSeries": null,
+                      "tier": "BRONZE",
+                      "freshBlood": false,
+                      "lastPlayed": 1408091760806.0,
+                      "playerOrTeamId": "TEAM-07e980e0-cb5c-11e3-abc6-90b11c397f97",
+                      "leaguePoints": 84,
+                      "demotionWarning": 0,
+                      "inactive": false,
+                      "rank": "II",
+                      "veteran": false,
+                      "queueType": "RANKED_TEAM_5x5",
+                      "losses": 12,
+                      "timeUntilDecay": 2242341586.0,
+                      "displayDecayWarning": false,
+                      "playerOrTeamName": "Best of Bronze V",
+                      "wins": 18,
+                      "TypeName": "com.riotgames.leagues.pojo.LeagueItemDTO"
                     }
                   ]
                 },
-                "invitationId": "INVID30891535",
-                "TypeName": "com.riotgames.platform.gameinvite.contract.LobbyStatus"
+                "TypeName": "com.riotgames.platform.leagues.client.dto.SummonerLeagueItemsDTO"
               },
-              "ClientId": "822554BB-CF2A-847B-DBF3-FE6CFB3DDDB8",
-              "ClientIdBytes": "‚%T»Ï*„{Ûóþlû=Ý¸",
+              "ClientId": "820E3F59-1348-68A2-F07E-FAAF39A7E39A",
+              "ClientIdBytes": "‚\u000e?Y\u0013Hh¢ð~ú¯9§ãš",
               "Destination": null,
               "Headers": null,
-              "MessageId": "822554CF-570D-982E-DA0B-0D3601B97C5F",
-              "MessageIdBytes": "‚%TÏW\r˜.Ú\u000b\r6\u0001¹|_",
-              "TimeStamp": 1408269238855,
+              "MessageId": "820E3F98-8D0E-DA27-B163-16D0EADB7712",
+              "MessageIdBytes": "‚\u000e?˜\u000eÚ'±c\u0016ÐêÛw\u0012",
+              "TimeStamp": 1408268619229,
               "TimeToLive": 0
             }
           ]
@@ -136,7 +153,7 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 721,
+        "Size": 771,
         "StreamId": 0,
         "Timer": 0,
         "IsTimerRelative": false

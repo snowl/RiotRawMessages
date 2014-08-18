@@ -5,7 +5,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 82,
+      "InvokeId": 9,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -17,7 +17,7 @@
           "$values": [
             {
               "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
-              "operation": "selectChampion",
+              "operation": "getSumonerActiveBoosts",
               "source": null,
               "headers": {
                 "$type": "FluorineFx.ASObject, FluorineFx",
@@ -28,14 +28,12 @@
               "clientId": null,
               "body": {
                 "$type": "System.Object[], mscorlib",
-                "$values": [
-                  42
-                ]
+                "$values": []
               },
-              "messageId": "ECC798B4-19DE-CC92-43D4-E3654835C5C8",
+              "messageId": "F20141A0-5262-B858-C138-E359A234C9B3",
               "timeToLive": 0,
               "timestamp": 0,
-              "destination": "gameService"
+              "destination": "inventoryService"
             }
           ]
         },
@@ -48,13 +46,13 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 303,
+        "Size": 314,
         "StreamId": 0,
-        "Timer": 42632,
+        "Timer": 3060,
         "IsTimerRelative": true
       },
       "Object": null,
-      "Timestamp": 42632,
+      "Timestamp": 3060,
       "ExtendedTimestamp": -1,
       "DataType": 17,
       "Source": null,
@@ -64,7 +62,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 78,
+      "InvokeId": 9,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -76,16 +74,26 @@
           "$values": [
             {
               "$type": "DSK, LoLNotes",
-              "CorrelationId": "ECC798B4-19DE-CC92-43D4-E3654835C5C8",
-              "CorrelationIdBytes": "ìÇ˜´\u0019ÞÌ’CÔãeH5ÅÈ",
-              "Body": null,
-              "ClientId": "822AA916-B60B-C5E6-F41B-C3D409075690",
-              "ClientIdBytes": "‚*©\u0016¶\u000bÅæô\u001bÃÔ\t\u0007V",
+              "CorrelationId": "F20141A0-5262-B858-C138-E359A234C9B3",
+              "CorrelationIdBytes": "ò\u0001A Rb¸XÁ8ãY¢4É³",
+              "Body": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "xpBoostEndDate": 0.0,
+                "xpBoostPerWinCount": 0,
+                "xpLoyaltyBoost": 0,
+                "ipBoostPerWinCount": 0,
+                "ipLoyaltyBoost": 0,
+                "summonerId": 222908.0,
+                "ipBoostEndDate": 1399050704000.0,
+                "TypeName": "com.riotgames.platform.summoner.boost.SummonerActiveBoostsDTO"
+              },
+              "ClientId": "820E38BD-2E18-83D9-5FF0-EAB817199477",
+              "ClientIdBytes": "‚\u000e8½.\u0018ƒÙ_ðê¸\u0017\u0019”w",
               "Destination": null,
               "Headers": null,
-              "MessageId": "822AA931-912C-CC14-F93D-2646A2A81363",
-              "MessageIdBytes": "‚*©1‘,Ì\u0014ù=&F¢¨\u0013c",
-              "TimeStamp": 1408269381921,
+              "MessageId": "820E38C2-1018-BD8A-57B9-3A90AEA53789",
+              "MessageIdBytes": "‚\u000e8Â\u0010\u0018½ŠW¹:®¥7‰",
+              "TimeStamp": 1408268618512,
               "TimeToLive": 0
             }
           ]
@@ -99,7 +107,7 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 95,
+        "Size": 303,
         "StreamId": 0,
         "Timer": 0,
         "IsTimerRelative": false

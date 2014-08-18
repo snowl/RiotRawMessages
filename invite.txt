@@ -5,7 +5,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 188,
+      "InvokeId": 66,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -17,25 +17,26 @@
           "$values": [
             {
               "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
-              "source": null,
               "operation": "invite",
+              "source": null,
               "headers": {
                 "$type": "FluorineFx.ASObject, FluorineFx",
-                "DSEndpoint": "my-rtmps",
                 "DSRequestTimeout": 60,
-                "DSId": "ABF0B443-C32C-360B-5C29-F11EFAB743F2"
+                "DSId": "820E14DF-0D0E-243A-93EB-C05FD51E59AE",
+                "DSEndpoint": "my-rtmps"
               },
+              "clientId": null,
               "body": {
                 "$type": "System.Object[], mscorlib",
                 "$values": [
-                  44156874
+                  271124,
+                  "DEFAULT"
                 ]
               },
-              "messageId": "AD61BC62-C518-37D1-6A67-ADE32FE50BEB",
-              "destination": "lcdsGameInvitationService",
-              "clientId": null,
+              "messageId": "7A492EB8-50FF-8A7E-2BF6-E3635B5178FE",
+              "timeToLive": 0,
               "timestamp": 0,
-              "timeToLive": 0
+              "destination": "lcdsGameInvitationService"
             }
           ]
         },
@@ -48,13 +49,13 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 312,
+        "Size": 320,
         "StreamId": 0,
-        "Timer": 0,
+        "Timer": 16883,
         "IsTimerRelative": true
       },
       "Object": null,
-      "Timestamp": 0,
+      "Timestamp": 16883,
       "ExtendedTimestamp": -1,
       "DataType": 17,
       "Source": null,
@@ -64,7 +65,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 108,
+      "InvokeId": 66,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -76,16 +77,16 @@
           "$values": [
             {
               "$type": "DSK, LoLNotes",
-              "CorrelationId": "AD61BC62-C518-37D1-6A67-ADE32FE50BEB",
-              "CorrelationIdBytes": "­a¼bÅ\u00187Ñjg­ã/å\u000bë",
+              "CorrelationId": "7A492EB8-50FF-8A7E-2BF6-E3635B5178FE",
+              "CorrelationIdBytes": "zI.¸PÿŠ~+öãc[Qxþ",
               "Body": null,
-              "ClientId": "AC87E2C0-AD0D-1F55-CDC0-61748B3FD1AD",
-              "ClientIdBytes": "¬‡âÀ­\r\u001fUÍÀat‹?Ñ­",
+              "ClientId": "8225F5BB-A10F-04CA-C2F5-DA09D7D9F6B4",
+              "ClientIdBytes": "‚%õ»¡\u000f\u0004ÊÂõÚ\t×Ùö´",
               "Destination": null,
               "Headers": null,
-              "MessageId": "AC87E2DD-F90C-D02C-AF89-CFA1CB8843D4",
-              "MessageIdBytes": "¬‡âÝù\fÐ,¯‰Ï¡ËˆCÔ",
-              "TimeStamp": 1394486757385,
+              "MessageId": "8225F5D4-0B0D-4741-13C6-36D302FB353B",
+              "MessageIdBytes": "‚%õÔ\u000b\rGA\u0013Æ6Ó\u0002û5;",
+              "TimeStamp": 1408269255739,
               "TimeToLive": 0
             }
           ]

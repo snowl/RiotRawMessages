@@ -5,7 +5,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 82,
+      "InvokeId": 27,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -17,7 +17,7 @@
           "$values": [
             {
               "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
-              "operation": "selectChampion",
+              "operation": "getPointsBalance",
               "source": null,
               "headers": {
                 "$type": "FluorineFx.ASObject, FluorineFx",
@@ -28,14 +28,12 @@
               "clientId": null,
               "body": {
                 "$type": "System.Object[], mscorlib",
-                "$values": [
-                  42
-                ]
+                "$values": []
               },
-              "messageId": "ECC798B4-19DE-CC92-43D4-E3654835C5C8",
+              "messageId": "3D12AFE1-14F5-5C07-8CC9-E35E18D1D7A1",
               "timeToLive": 0,
               "timestamp": 0,
-              "destination": "gameService"
+              "destination": "lcdsRerollService"
             }
           ]
         },
@@ -48,13 +46,13 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 303,
+        "Size": 309,
         "StreamId": 0,
-        "Timer": 42632,
+        "Timer": 298,
         "IsTimerRelative": true
       },
       "Object": null,
-      "Timestamp": 42632,
+      "Timestamp": 298,
       "ExtendedTimestamp": -1,
       "DataType": 17,
       "Source": null,
@@ -64,7 +62,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 78,
+      "InvokeId": 27,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -76,16 +74,24 @@
           "$values": [
             {
               "$type": "DSK, LoLNotes",
-              "CorrelationId": "ECC798B4-19DE-CC92-43D4-E3654835C5C8",
-              "CorrelationIdBytes": "ìÇ˜´\u0019ÞÌ’CÔãeH5ÅÈ",
-              "Body": null,
-              "ClientId": "822AA916-B60B-C5E6-F41B-C3D409075690",
-              "ClientIdBytes": "‚*©\u0016¶\u000bÅæô\u001bÃÔ\t\u0007V",
+              "CorrelationId": "3D12AFE1-14F5-5C07-8CC9-E35E18D1D7A1",
+              "CorrelationIdBytes": "=\u0012¯á\u0014õ\\\u0007ŒÉã^\u0018Ñ×¡",
+              "Body": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "pointsToNextRoll": 106.0,
+                "maxRolls": 2,
+                "numberOfRolls": 1,
+                "pointsCostToRoll": 250.0,
+                "currentPoints": 394.0,
+                "TypeName": "com.riotgames.platform.reroll.pojo.PointSummary"
+              },
+              "ClientId": "82191F18-3C09-76FD-34EE-3849C1107CAF",
+              "ClientIdBytes": "‚\u0019\u001f\u0018<\tvý4î8IÁ\u0010|¯",
               "Destination": null,
               "Headers": null,
-              "MessageId": "822AA931-912C-CC14-F93D-2646A2A81363",
-              "MessageIdBytes": "‚*©1‘,Ì\u0014ù=&F¢¨\u0013c",
-              "TimeStamp": 1408269381921,
+              "MessageId": "82191F68-CD6A-38DA-4D75-4AB6275CD418",
+              "MessageIdBytes": "‚\u0019\u001fhÍj8ÚMuJ¶'\\Ô\u0018",
+              "TimeStamp": 1408268911133,
               "TimeToLive": 0
             }
           ]
@@ -99,7 +105,7 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 95,
+        "Size": 247,
         "StreamId": 0,
         "Timer": 0,
         "IsTimerRelative": false

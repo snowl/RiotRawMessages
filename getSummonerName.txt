@@ -5,7 +5,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 82,
+      "InvokeId": 43,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -17,7 +17,7 @@
           "$values": [
             {
               "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
-              "operation": "selectChampion",
+              "operation": "getSummonerByName",
               "source": null,
               "headers": {
                 "$type": "FluorineFx.ASObject, FluorineFx",
@@ -29,13 +29,13 @@
               "body": {
                 "$type": "System.Object[], mscorlib",
                 "$values": [
-                  42
+                  "iM Claire intel"
                 ]
               },
-              "messageId": "ECC798B4-19DE-CC92-43D4-E3654835C5C8",
+              "messageId": "6B14A749-2608-3E9F-C298-E3610E2DF1F8",
               "timeToLive": 0,
               "timestamp": 0,
-              "destination": "gameService"
+              "destination": "summonerService"
             }
           ]
         },
@@ -48,13 +48,13 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 303,
+        "Size": 325,
         "StreamId": 0,
-        "Timer": 42632,
+        "Timer": 5681,
         "IsTimerRelative": true
       },
       "Object": null,
-      "Timestamp": 42632,
+      "Timestamp": 5681,
       "ExtendedTimestamp": -1,
       "DataType": 17,
       "Source": null,
@@ -64,7 +64,7 @@
       "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
       "CmdData": null,
       "Data": null,
-      "InvokeId": 78,
+      "InvokeId": 43,
       "ServiceCall": {
         "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
         "Result": null,
@@ -76,16 +76,29 @@
           "$values": [
             {
               "$type": "DSK, LoLNotes",
-              "CorrelationId": "ECC798B4-19DE-CC92-43D4-E3654835C5C8",
-              "CorrelationIdBytes": "ìÇ˜´\u0019ÞÌ’CÔãeH5ÅÈ",
-              "Body": null,
-              "ClientId": "822AA916-B60B-C5E6-F41B-C3D409075690",
-              "ClientIdBytes": "‚*©\u0016¶\u000bÅæô\u001bÃÔ\t\u0007V",
+              "CorrelationId": "6B14A749-2608-3E9F-C298-E3610E2DF1F8",
+              "CorrelationIdBytes": "k\u0014§I&\b>ŸÂ˜ãa\u000e-ñø",
+              "Body": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "internalName": "imclaireintel",
+                "dataVersion": 0,
+                "acctId": 200202697.0,
+                "name": "iM Claire intel",
+                "profileIconId": 522,
+                "revisionDate": "\/Date(1408264632774)\/",
+                "revisionId": 0.0,
+                "summonerLevel": 30.0,
+                "summonerId": 477410.0,
+                "futureData": null,
+                "TypeName": "com.riotgames.platform.summoner.PublicSummoner"
+              },
+              "ClientId": "82205761-DB08-ADED-042A-5959C5F4770D",
+              "ClientIdBytes": "‚ WaÛ\b­í\u0004*YYÅôw\r",
               "Destination": null,
               "Headers": null,
-              "MessageId": "822AA931-912C-CC14-F93D-2646A2A81363",
-              "MessageIdBytes": "‚*©1‘,Ì\u0014ù=&F¢¨\u0013c",
-              "TimeStamp": 1408269381921,
+              "MessageId": "82205766-BD1D-B6C6-3E48-2A33A5D921EE",
+              "MessageIdBytes": "‚ Wf½\u001d¶Æ>H*3¥Ù!î",
+              "TimeStamp": 1408269104909,
               "TimeToLive": 0
             }
           ]
@@ -99,7 +112,7 @@
         "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
         "ChannelId": 3,
         "DataType": 17,
-        "Size": 95,
+        "Size": 340,
         "StreamId": 0,
         "Timer": 0,
         "IsTimerRelative": false

@@ -1,0 +1,181 @@
+{
+  "$type": "System.Collections.Generic.List`1[[FluorineFx.Messaging.Rtmp.Event.Notify, FluorineFx]], mscorlib",
+  "$values": [
+    {
+      "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
+      "CmdData": null,
+      "Data": null,
+      "InvokeId": 28,
+      "ServiceCall": {
+        "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
+        "Result": null,
+        "IsSuccess": false,
+        "ServiceMethodName": null,
+        "ServiceName": null,
+        "Arguments": {
+          "$type": "System.Object[], mscorlib",
+          "$values": [
+            {
+              "$type": "FluorineFx.Messaging.Messages.RemotingMessage, FluorineFx",
+              "operation": "getMyLeaguePositionsAndProgress",
+              "source": null,
+              "headers": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "DSRequestTimeout": 60,
+                "DSId": "820E14DF-0D0E-243A-93EB-C05FD51E59AE",
+                "DSEndpoint": "my-rtmps"
+              },
+              "clientId": null,
+              "body": {
+                "$type": "System.Object[], mscorlib",
+                "$values": []
+              },
+              "messageId": "9CE0EC82-C488-678D-821D-E35E1BC58D69",
+              "timeToLive": 0,
+              "timestamp": 0,
+              "destination": "leaguesServiceProxy"
+            }
+          ]
+        },
+        "Status": 1,
+        "Exception": null
+      },
+      "ConnectionParameters": null,
+      "EventType": 2,
+      "Header": {
+        "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
+        "ChannelId": 3,
+        "DataType": 17,
+        "Size": 326,
+        "StreamId": 0,
+        "Timer": 756,
+        "IsTimerRelative": true
+      },
+      "Object": null,
+      "Timestamp": 756,
+      "ExtendedTimestamp": -1,
+      "DataType": 17,
+      "Source": null,
+      "HasSource": false
+    },
+    {
+      "$type": "FluorineFx.Messaging.Rtmp.Event.FlexInvoke, FluorineFx",
+      "CmdData": null,
+      "Data": null,
+      "InvokeId": 28,
+      "ServiceCall": {
+        "$type": "FluorineFx.Messaging.Rtmp.Service.PendingCall, FluorineFx",
+        "Result": null,
+        "IsSuccess": false,
+        "ServiceMethodName": "_result",
+        "ServiceName": null,
+        "Arguments": {
+          "$type": "System.Object[], mscorlib",
+          "$values": [
+            {
+              "$type": "DSK, LoLNotes",
+              "CorrelationId": "9CE0EC82-C488-678D-821D-E35E1BC58D69",
+              "CorrelationIdBytes": "œàì‚Äˆg‚\u001dã^\u001bÅi",
+              "Body": {
+                "$type": "FluorineFx.ASObject, FluorineFx",
+                "summonerRewards": {
+                  "$type": "FluorineFx.ASObject, FluorineFx",
+                  "rewardLevel": 2,
+                  "points": 60,
+                  "TypeName": "com.riotgames.platform.leagues.client.dto.SummonerLeagueRewardsDTO"
+                },
+                "summonerLeagues": {
+                  "$type": "FluorineFx.AMF3.ArrayCollection, FluorineFx",
+                  "$values": [
+                    {
+                      "$type": "FluorineFx.ASObject, FluorineFx",
+                      "previousDayLeaguePosition": 29,
+                      "timeLastDecayMessageShown": 1405301345865.0,
+                      "hotStreak": false,
+                      "leagueName": "Taric's Shadehunters",
+                      "miniSeries": null,
+                      "tier": "GOLD",
+                      "freshBlood": false,
+                      "qualifiedTierReward": true,
+                      "lastPlayed": 1407216344414.0,
+                      "playerOrTeamId": "222908",
+                      "gameWinForReward": 0,
+                      "leaguePoints": 30,
+                      "demotionWarning": 0,
+                      "inactive": false,
+                      "rank": "IV",
+                      "veteran": false,
+                      "queueType": "RANKED_SOLO_5x5",
+                      "losses": 57,
+                      "timeUntilDecay": 1366632608.0,
+                      "displayDecayWarning": false,
+                      "playerOrTeamName": "Snowl",
+                      "wins": 64,
+                      "TypeName": "com.riotgames.platform.leagues.client.dto.SummonerLeagueItemDTO"
+                    },
+                    {
+                      "$type": "FluorineFx.ASObject, FluorineFx",
+                      "previousDayLeaguePosition": 1,
+                      "timeLastDecayMessageShown": 0.0,
+                      "hotStreak": false,
+                      "leagueName": "Corki's Legion",
+                      "miniSeries": null,
+                      "tier": "BRONZE",
+                      "freshBlood": false,
+                      "qualifiedTierReward": true,
+                      "lastPlayed": 1408091760806.0,
+                      "playerOrTeamId": "TEAM-07e980e0-cb5c-11e3-abc6-90b11c397f97",
+                      "gameWinForReward": 0,
+                      "leaguePoints": 84,
+                      "demotionWarning": 0,
+                      "inactive": false,
+                      "rank": "II",
+                      "veteran": false,
+                      "queueType": "RANKED_TEAM_5x5",
+                      "losses": 12,
+                      "timeUntilDecay": 2242049005.0,
+                      "displayDecayWarning": false,
+                      "playerOrTeamName": "Best of Bronze V",
+                      "wins": 18,
+                      "TypeName": "com.riotgames.platform.leagues.client.dto.SummonerLeagueItemDTO"
+                    }
+                  ]
+                },
+                "highestTierQueueType": "RANKED_SOLO_5x5",
+                "highestTierParticipantId": "222908",
+                "TypeName": "com.riotgames.platform.leagues.client.dto.SummonerLeagueItemAndProgressDTO"
+              },
+              "ClientId": "8219258F-820F-04CF-BCCE-96998A6793BF",
+              "ClientIdBytes": "‚\u0019%‚\u000f\u0004Ï¼Î–™Šg“¿",
+              "Destination": null,
+              "Headers": null,
+              "MessageId": "821925EE-B90A-8D15-4CD5-A99F244703FB",
+              "MessageIdBytes": "‚\u0019%î¹\n\u0015LÕ©Ÿ$G\u0003û",
+              "TimeStamp": 1408268911817,
+              "TimeToLive": 0
+            }
+          ]
+        },
+        "Status": 1,
+        "Exception": null
+      },
+      "ConnectionParameters": null,
+      "EventType": 2,
+      "Header": {
+        "$type": "FluorineFx.Messaging.Rtmp.RtmpHeader, FluorineFx",
+        "ChannelId": 3,
+        "DataType": 17,
+        "Size": 1006,
+        "StreamId": 0,
+        "Timer": 0,
+        "IsTimerRelative": false
+      },
+      "Object": null,
+      "Timestamp": 0,
+      "ExtendedTimestamp": -1,
+      "DataType": 17,
+      "Source": null,
+      "HasSource": false
+    }
+  ]
+}
