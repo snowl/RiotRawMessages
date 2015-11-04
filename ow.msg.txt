@@ -1,0 +1,45 @@
+{
+    "Body": {
+        "TypeName": "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse",
+        "payload": {
+            "counter": 73,
+            "phaseName": "MATCHMAKING",
+            "premadeState": {
+                "timer": 999,
+                "draftPremadeId": "66156258-0eb4-42cb-b4b0-9aeecb911dbc",
+                "premadeChatRoomId": "66156258-0eb4-42cb-b4b0-9aeecb911dbc",
+                "captainSlotId": 0,
+                "readyToMatchmake": true,
+                "draftSlots": [
+                    {
+                        "slotId": 0,
+                        "summonerName": "hzj",
+                        "draftPositionPreferences": [
+                            "MIDDLE",
+                            "BOTTOM"
+                        ]
+                    }
+                ],
+                "playableDraftPositions": [
+                    "BOTTOM",
+                    "UTILITY",
+                    "FILL",
+                    "JUNGLE",
+                    "TOP",
+                    "MIDDLE"
+                ],
+                "localPlayerSlotId": 0
+            },
+            "matchmakingState": {
+                "estimatedMatchmakingTimeMillis": 402838,
+                "timeInMatchmakingMillis": 216339,
+                "backwardsTransitionReason": "PLAYER_LEFT_CHAMPION_SELECT"
+            }
+        },
+        "Status": "OK",
+        "MessageId": null,
+        "MethodName": "tbdGameDtoV1",
+        "ServiceName": "teambuilder-draft",
+        "Payload": "{\"counter\":73,\"phaseName\":\"MATCHMAKING\",\"premadeState\":{\"timer\":999,\"draftPremadeId\":\"66156258-0eb4-42cb-b4b0-9aeecb911dbc\",\"premadeChatRoomId\":\"66156258-0eb4-42cb-b4b0-9aeecb911dbc\",\"captainSlotId\":0,\"readyToMatchmake\":true,\"draftSlots\":[{\"slotId\":0,\"summonerName\":\"hzj\",\"draftPositionPreferences\":[\"MIDDLE\",\"BOTTOM\"]}],\"playableDraftPositions\":[\"BOTTOM\",\"UTILITY\",\"FILL\",\"JUNGLE\",\"TOP\",\"MIDDLE\"],\"localPlayerSlotId\":0},\"matchmakingState\":{\"estimatedMatchmakingTimeMillis\":402838,\"timeInMatchmakingMillis\":216339,\"backwardsTransitionReason\":\"PLAYER_LEFT_CHAMPION_SELECT\"}}"
+    }
+}

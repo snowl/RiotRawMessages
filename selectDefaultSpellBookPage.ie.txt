@@ -1,0 +1,84 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "dataVersion",
+            "Value": 0
+        },
+        {
+            "Key": "pageId",
+            "Value": 31613673
+        },
+        {
+            "Key": "name",
+            "Value": "@@!PaG3!@@31613673"
+        },
+        {
+            "Key": "current",
+            "Value": true
+        },
+        {
+            "Key": "slotEntries",
+            "Value": [
+                
+            ]
+        },
+        {
+            "Key": "createDate",
+            "Value": "\/Date(1426911348000)\/"
+        },
+        {
+            "Key": "summonerId",
+            "Value": 2159378272
+        },
+        {
+            "Key": "futureData",
+            "Value": null
+        }
+    ],
+    "Destination": "spellBookService",
+    "Operation": "selectDefaultSpellBookPage",
+    "Parameters": [
+        [
+            {
+                "Key": "slotEntries",
+                "Value": [
+                    
+                ]
+            },
+            {
+                "Key": "nameChanged",
+                "Value": [
+                    
+                ]
+            },
+            {
+                "Key": "pageId",
+                "Value": 31613673
+            },
+            {
+                "Key": "createDate",
+                "Value": "\/Date(1426911348000)\/"
+            },
+            {
+                "Key": "name",
+                "Value": "2"
+            },
+            {
+                "Key": "current",
+                "Value": false
+            },
+            {
+                "Key": "summonerId",
+                "Value": 2159378272
+            },
+            {
+                "Key": "futureData",
+                "Value": null
+            },
+            {
+                "Key": "dataVersion",
+                "Value": null
+            }
+        ]
+    ]
+}

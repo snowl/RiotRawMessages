@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "FBC1DCB8-D852-1E83-6760-D2A0BF0A8722",
+        "teambuilder-draft",
+        "lockChampionBanV1",
+        "{}"
+    ]
+}

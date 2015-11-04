@@ -1,0 +1,267 @@
+{
+    "Body": {
+        "TypeName": "com.riotgames.platform.client.dynamic.configuration.ClientDynamicConfigurationNotification",
+        "configs": {
+            "Chroma": {
+                "IsEnabled": true
+            },
+            "PlatformShutdown": {
+                "Enabled": false
+            },
+            "BotConfigurations": {
+                "IntermediateInCustoms": true
+            },
+            "ShareMatchHistory": {
+                "MatchHistoryUrlTemplate": "http://matchhistory.pbe.leagueoflegends.com/{2}/#login?redirect=%23player-search%2FcurrentAccount%2FPBE1%2F{0}",
+                "AdvancedGameDetailsUrlTemplate": "http://www.leagueoflegends.com",
+                "AdvancedGameDetailsEnabled": false,
+                "MatchDetailsUrlTemplate": "http://matchhistory.pbe.leagueoflegends.com/{2}/#match-details/PBE1/{0}/{1}",
+                "ShareEndOfGameEnabled": true,
+                "ShareGameUrlTemplate": "http://matchhistory.pbe.leagueoflegends.com/{2}/#match-details/PBE1/{0}/{1}/eog",
+                "MatchHistoryEnabled": true
+            },
+            "GuestSlots": {
+                "Enabled": null
+            },
+            "ServiceStatusAPI": {
+                "Enabled": true
+            },
+            "FriendRecommendations": {
+                "Enabled": null,
+                "FaqLink": "http://na.leagueoflegends.com/en/features/faq-add-friends",
+                "StatusExpiryMillis": 300000,
+                "EnableAddFriendButton": true,
+                "EnabledPercent": 100,
+                "ShowToolTip": true,
+                "RegistrationPollRateMillis": 5000,
+                "HideFriends": false,
+                "PlayerLevelForNewNotification": 5,
+                "AssociationFailUrlTemplate": null,
+                "RegistrationPollDurationMillis": 300000,
+                "ContactsUrlTemplate": "https://recofriender.test.leagueoflegends.com/v1/contacts/{0}/{1}",
+                "EnableDebugAuthentication": null,
+                "ContactDetailsUrlTemplate": "https://recofriender.test.leagueoflegends.com/v1/contactdetails/{0}/{1}/{2}/",
+                "AssociationUrlTemplate": "https://recofriender.test.leagueoflegends.com/v1/facebook-oauth?locale={0}",
+                "UnlinkUrlTemplate": "https://recofriender.test.leagueoflegends.com/v1/facebook-oauth/unlink/{0}/{1}",
+                "EnableViewAllPanel": true,
+                "UseNativeFacebookPop": false,
+                "EnablePercent": null,
+                "ActiveLinkStatusNames": null
+            },
+            "GameTimerSync": {
+                "Enabled": true,
+                "PercentOfTotalTimerToSyncAt": 0.8
+            },
+            "DockedPrompt": {
+                "EnabledNewDockedPromptRenderer": true
+            },
+            "QueueRestriction": {
+                "ServiceEnabled": true,
+                "RankedDuoQueueRestrictionMode": "TIER",
+                "KarmaEnabled": true,
+                "RankedDuoQueueRestrictionMaxDelta": 1,
+                "RankedDuoQueueDefaultUnseededTier": "SILVER"
+            },
+            "PartyRewards": {
+                "Enabled": false,
+                "GameFlowVisualUpdate": false
+            },
+            "QueueImages": {
+                "OverrideQueueImage": true
+            },
+            "TeamBoost": {
+                "RandomSkinEnabled": "ON",
+                "AllSkinEnabled": "OFF"
+            },
+            "SuggestedPlayers": {
+                "HonoredPlayersLimit": 4,
+                "FriendsOfFriendsLimit": 22,
+                "Enabled": true,
+                "OnlineFriendsLimit": 4,
+                "PreviousPremadesLimit": 4,
+                "MaxNumSuggestedPlayers": 8,
+                "VictoriousComradesLimit": 4,
+                "FriendsOfFriendsEnabled": true,
+                "MaxNumReplacements": 22
+            },
+            "DisabledChampions": {
+                "FIRSTBLOOD": "[]",
+                "KINGPORO": "[]",
+                "ARAM_UNRANKED_5x5": "[]",
+                "ONEFORALL_5x5": "[]",
+                "ASCENSION": "[]",
+                "SR_6x6": "[]",
+                "BILGEWATER": "[]",
+                "ODIN_UNRANKED": "[]",
+                "URF": "[]",
+                "KING_PORO": "[]",
+                "NIGHTMARE_BOT": "[]",
+                "RANKED_SOLO_5x5": "[]",
+                "TUTORIAL": "[]",
+                "URF_BOT": "[]",
+                "FIRSTBLOOD_2x2": "[]",
+                "FIRSTBLOOD_1x1": "[]",
+                "CLASSIC": "[]",
+                "RANKED_TEAM_5x5": "[]",
+                "COUNTER_PICK": "[]",
+                "RANKED_TEAM_3x3": "[]",
+                "HEXAKILL": "[]",
+                "BOT": "[]",
+                "ODIN": "[]",
+                "BILGEWATER_ARAM-5x5": "[]",
+                "ONEFORALL": "[]",
+                "NORMAL": "[]",
+                "NORMAL_3x3": "[]",
+                "BOT_3x3": "[]",
+                "ARAM": "[]"
+            },
+            "Mutators": {
+                "CustomGameMutators": "[\"SpectatorUpdate\"]",
+                "BattleTrainingMutators": "[\"CLARITY\"]",
+                "EnabledMutators": "[\"SpectatorUpdate\",\"OneForAll\"]",
+                "BasicTutorialMutators": "[\"BasicTutorial\",\"CLARITY\"]",
+                "EnabledModes": "[\"CLASSIC\",\"TUTORIAL\",\"ODIN\",\"ARAM\"]"
+            },
+            "EndOfGameGifting": {
+                "Enabled": true
+            },
+            "TeamBuilder": {
+                "TimeoutDelay": 30000,
+                "TimeoutsEnabled": true
+            },
+            "ProfileHoverCard": {
+                "IsEnabledForBuddyPanelView": "true",
+                "ACSLookup": "true",
+                "IsEnabledForSummonerQuickView": "true",
+                "IsEnabledForGameLobbySuggestedPlayers": "true",
+                "IsEnabledForChatFriendsList": "true",
+                "IsEnabledForChatGroupChatParticipants": "true",
+                "IsEnabledForCustomGameLobby": "true",
+                "IsEnabled": "true",
+                "ChampionMasteryLookup": "true",
+                "IsEnabledForTeamBuilderSuggestedPlayers": "true",
+                "LeagueLookup": "true"
+            },
+            "SkinRentals": {
+                "Enabled": "ON"
+            },
+            "ContextualEducation": {
+                "TargetMinionsPerWave": 0.4,
+                "Enabled": false,
+                "MaxTargetSummonerLevel": 10.0
+            },
+            "DisabledChampionSkins": {
+                "DisabledChampionSkins": "[]"
+            },
+            "ChampionMasteryConfig": {
+                "Enabled": true,
+                "MinSummonerLevel": 5,
+                "EndOfGameEnabled": true,
+                "SupportedQueueTypes": "RANKED_SOLO_5x5,RANKED_TEAM_5x5,CAP_5x5,NORMAL,BILGEWATER",
+                "MaxChampionLevel": 5,
+                "ShowGradeAvailablePopup": false,
+                "CapUnlockChampionLevel": 4,
+                "GradeEnabled": true
+            },
+            "Esports": {
+                "NotificationsAssetMagickURL": "http://am-a.akamaihd.net/image/?f=",
+                "NotificationsStreamGroupSlug": "world-championship",
+                "NotificationsServiceEndpoint": "http://api.lolesports.com/api/v2/streamgroups",
+                "NotificationsEnabled": "true",
+                "NotificationsStreamURL": "http://watch.na.lolesports.com/en_US#/livestream?utm_source=pbe_pvp_client\u0026utm_medium=referral\u0026utm_campaign=match_notifications"
+            },
+            "WardSkinConfig": {
+                "WardSkinSelection": true
+            },
+            "PlayerPreferences": {
+                "Enabled": false,
+                "ServiceEndpoint": "https://playerpreferences.riotgames.com:443"
+            },
+            "GameInvites": {
+                "ServiceEnabled": true,
+                "GameInviteServiceEnabled": null,
+                "LobbyStatusThrottlingOn": false,
+                "InviteBulkMaxSize": 200,
+                "LobbyCreationEnabled": true
+            },
+            "Chat": {
+                "Rename_general_group_throttle": 0.1,
+                "Default_public_chat_rooms": "Public Beta, Play with Riot",
+                "MobileEnabled": false
+            },
+            "NewPlayerLandingPage": {
+                "Enabled": false,
+                "MaxLevel": 5,
+                "ChampDisplayList": "86,22,1,11,10,20",
+                "SubscribeURL": "http://bit.ly/1ekQWfK",
+                "LikeUsURL": "http://bit.ly/18bT6PF"
+            },
+            "NewMatchHistory": {
+                "Enabled": true,
+                "PostIPXPToLegSEnabled": true,
+                "SharingEnabled": true
+            },
+            "ContextualEducationURLs": {
+                "LAST_HIT": "null"
+            },
+            "RecoFriend": {
+                "UnlinkFB": "https://support.riotgames.com/hc/en-us/articles/204167164",
+                "FaqLink": "http://na.leagueoflegends.com/en/features/faq-add-friends",
+                "ShowRecoAddF": true
+            },
+            "Clubs": {
+                "ClubsEnabled": true,
+                "ClubServiceUrl": "https://clubs.test.leagueoflegends.com/"
+            },
+            "AuthTokenManager": {
+                "AuthBasicAuthentication": null,
+                "AuthPlatform": null,
+                "AuthErrorCacheTimeoutMillis": null,
+                "AuthUrl": null
+            },
+            "AccountManagement": {
+                "EvURL": "https://account.pbe.leagueoflegends.com/pbe/en/protect?utm_source=AIRCLIENT\u0026utm_medium=NOTIFICATION\u0026utm_campaign=verification"
+            },
+            "SeasonReward": {
+                "Maximum_team_reward_level": 3,
+                "Enabled": true,
+                "ServiceCallEnabled": true,
+                "QualificationWarningEnabled": true,
+                "Minimum_points_per_reward_level": "20,45,75",
+                "Minimum_win_team_reward_level_2": 35,
+                "Minimum_win_team_reward_level_1": 10,
+                "DemotionWarningEnabled": true,
+                "Minimum_win_team_reward_level_3": 75
+            },
+            "String": {
+                "String": null
+            },
+            "ChampionTradeService": {
+                "Enabled": true
+            },
+            "LeagueConfig": {
+                "IsPreseason": true,
+                "MasterTierEnabled": true,
+                "PreseasonName": "2016",
+                "SeasonName": "2015"
+            },
+            "ChampionSelect": {
+                "UseOptimizedChampSelectProcessor": false,
+                "UseOptimizedSpellSelectProcessor": false,
+                "AllChampsAvailableInAram": false,
+                "UseOptimizedBotChampionSelectProcessor": false,
+                "AutoReconnectEnabled": true,
+                "CollatorChampionFilterEnabled": false,
+                "AlwaysShowRewardIcon": false
+            },
+            "FeaturedGame": {
+                "MetadataEnabled": "OFF"
+            },
+            "MatchHistoryEnabled": {
+                "False": null
+            }
+        },
+        "Delta": false,
+        "Configurations": "{\"Chroma\":{\"IsEnabled\":true},\"PlatformShutdown\":{\"Enabled\":false},\"BotConfigurations\":{\"IntermediateInCustoms\":true},\"ShareMatchHistory\":{\"MatchHistoryUrlTemplate\":\"http://matchhistory.pbe.leagueoflegends.com/{2}/#login?redirect=%23player-search%2FcurrentAccount%2FPBE1%2F{0}\",\"AdvancedGameDetailsUrlTemplate\":\"http://www.leagueoflegends.com\",\"AdvancedGameDetailsEnabled\":false,\"MatchDetailsUrlTemplate\":\"http://matchhistory.pbe.leagueoflegends.com/{2}/#match-details/PBE1/{0}/{1}\",\"ShareEndOfGameEnabled\":true,\"ShareGameUrlTemplate\":\"http://matchhistory.pbe.leagueoflegends.com/{2}/#match-details/PBE1/{0}/{1}/eog\",\"MatchHistoryEnabled\":true},\"GuestSlots\":{\"Enabled\":null},\"ServiceStatusAPI\":{\"Enabled\":true},\"FriendRecommendations\":{\"Enabled\":null,\"FaqLink\":\"http://na.leagueoflegends.com/en/features/faq-add-friends\",\"StatusExpiryMillis\":300000,\"EnableAddFriendButton\":true,\"EnabledPercent\":100,\"ShowToolTip\":true,\"RegistrationPollRateMillis\":5000,\"HideFriends\":false,\"PlayerLevelForNewNotification\":5,\"AssociationFailUrlTemplate\":null,\"RegistrationPollDurationMillis\":300000,\"ContactsUrlTemplate\":\"https://recofriender.test.leagueoflegends.com/v1/contacts/{0}/{1}\",\"EnableDebugAuthentication\":null,\"ContactDetailsUrlTemplate\":\"https://recofriender.test.leagueoflegends.com/v1/contactdetails/{0}/{1}/{2}/\",\"AssociationUrlTemplate\":\"https://recofriender.test.leagueoflegends.com/v1/facebook-oauth?locale={0}\",\"UnlinkUrlTemplate\":\"https://recofriender.test.leagueoflegends.com/v1/facebook-oauth/unlink/{0}/{1}\",\"EnableViewAllPanel\":true,\"UseNativeFacebookPop\":false,\"EnablePercent\":null,\"ActiveLinkStatusNames\":null},\"GameTimerSync\":{\"Enabled\":true,\"PercentOfTotalTimerToSyncAt\":0.8},\"DockedPrompt\":{\"EnabledNewDockedPromptRenderer\":true},\"QueueRestriction\":{\"ServiceEnabled\":true,\"RankedDuoQueueRestrictionMode\":\"TIER\",\"KarmaEnabled\":true,\"RankedDuoQueueRestrictionMaxDelta\":1,\"RankedDuoQueueDefaultUnseededTier\":\"SILVER\"},\"PartyRewards\":{\"Enabled\":false,\"GameFlowVisualUpdate\":false},\"QueueImages\":{\"OverrideQueueImage\":true},\"TeamBoost\":{\"RandomSkinEnabled\":\"ON\",\"AllSkinEnabled\":\"OFF\"},\"SuggestedPlayers\":{\"HonoredPlayersLimit\":4,\"FriendsOfFriendsLimit\":22,\"Enabled\":true,\"OnlineFriendsLimit\":4,\"PreviousPremadesLimit\":4,\"MaxNumSuggestedPlayers\":8,\"VictoriousComradesLimit\":4,\"FriendsOfFriendsEnabled\":true,\"MaxNumReplacements\":22},\"DisabledChampions\":{\"FIRSTBLOOD\":\"[]\",\"KINGPORO\":\"[]\",\"ARAM_UNRANKED_5x5\":\"[]\",\"ONEFORALL_5x5\":\"[]\",\"ASCENSION\":\"[]\",\"SR_6x6\":\"[]\",\"BILGEWATER\":\"[]\",\"ODIN_UNRANKED\":\"[]\",\"URF\":\"[]\",\"KING_PORO\":\"[]\",\"NIGHTMARE_BOT\":\"[]\",\"RANKED_SOLO_5x5\":\"[]\",\"TUTORIAL\":\"[]\",\"URF_BOT\":\"[]\",\"FIRSTBLOOD_2x2\":\"[]\",\"FIRSTBLOOD_1x1\":\"[]\",\"CLASSIC\":\"[]\",\"RANKED_TEAM_5x5\":\"[]\",\"COUNTER_PICK\":\"[]\",\"RANKED_TEAM_3x3\":\"[]\",\"HEXAKILL\":\"[]\",\"BOT\":\"[]\",\"ODIN\":\"[]\",\"BILGEWATER_ARAM-5x5\":\"[]\",\"ONEFORALL\":\"[]\",\"NORMAL\":\"[]\",\"NORMAL_3x3\":\"[]\",\"BOT_3x3\":\"[]\",\"ARAM\":\"[]\"},\"Mutators\":{\"CustomGameMutators\":\"[\\\"SpectatorUpdate\\\"]\",\"BattleTrainingMutators\":\"[\\\"CLARITY\\\"]\",\"EnabledMutators\":\"[\\\"SpectatorUpdate\\\",\\\"OneForAll\\\"]\",\"BasicTutorialMutators\":\"[\\\"BasicTutorial\\\",\\\"CLARITY\\\"]\",\"EnabledModes\":\"[\\\"CLASSIC\\\",\\\"TUTORIAL\\\",\\\"ODIN\\\",\\\"ARAM\\\"]\"},\"EndOfGameGifting\":{\"Enabled\":true},\"TeamBuilder\":{\"TimeoutDelay\":30000,\"TimeoutsEnabled\":true},\"ProfileHoverCard\":{\"IsEnabledForBuddyPanelView\":\"true\",\"ACSLookup\":\"true\",\"IsEnabledForSummonerQuickView\":\"true\",\"IsEnabledForGameLobbySuggestedPlayers\":\"true\",\"IsEnabledForChatFriendsList\":\"true\",\"IsEnabledForChatGroupChatParticipants\":\"true\",\"IsEnabledForCustomGameLobby\":\"true\",\"IsEnabled\":\"true\",\"ChampionMasteryLookup\":\"true\",\"IsEnabledForTeamBuilderSuggestedPlayers\":\"true\",\"LeagueLookup\":\"true\"},\"SkinRentals\":{\"Enabled\":\"ON\"},\"ContextualEducation\":{\"TargetMinionsPerWave\":0.4,\"Enabled\":false,\"MaxTargetSummonerLevel\":10.0},\"DisabledChampionSkins\":{\"DisabledChampionSkins\":\"[]\"},\"ChampionMasteryConfig\":{\"Enabled\":true,\"MinSummonerLevel\":5,\"EndOfGameEnabled\":true,\"SupportedQueueTypes\":\"RANKED_SOLO_5x5,RANKED_TEAM_5x5,CAP_5x5,NORMAL,BILGEWATER\",\"MaxChampionLevel\":5,\"ShowGradeAvailablePopup\":false,\"CapUnlockChampionLevel\":4,\"GradeEnabled\":true},\"Esports\":{\"NotificationsAssetMagickURL\":\"http://am-a.akamaihd.net/image/?f=\",\"NotificationsStreamGroupSlug\":\"world-championship\",\"NotificationsServiceEndpoint\":\"http://api.lolesports.com/api/v2/streamgroups\",\"NotificationsEnabled\":\"true\",\"NotificationsStreamURL\":\"http://watch.na.lolesports.com/en_US#/livestream?utm_source=pbe_pvp_client\\u0026utm_medium=referral\\u0026utm_campaign=match_notifications\"},\"WardSkinConfig\":{\"WardSkinSelection\":true},\"PlayerPreferences\":{\"Enabled\":false,\"ServiceEndpoint\":\"https://playerpreferences.riotgames.com:443\"},\"GameInvites\":{\"ServiceEnabled\":true,\"GameInviteServiceEnabled\":null,\"LobbyStatusThrottlingOn\":false,\"InviteBulkMaxSize\":200,\"LobbyCreationEnabled\":true},\"Chat\":{\"Rename_general_group_throttle\":0.1,\"Default_public_chat_rooms\":\"Public Beta, Play with Riot\",\"MobileEnabled\":false},\"NewPlayerLandingPage\":{\"Enabled\":false,\"MaxLevel\":5,\"ChampDisplayList\":\"86,22,1,11,10,20\",\"SubscribeURL\":\"http://bit.ly/1ekQWfK\",\"LikeUsURL\":\"http://bit.ly/18bT6PF\"},\"NewMatchHistory\":{\"Enabled\":true,\"PostIPXPToLegSEnabled\":true,\"SharingEnabled\":true},\"ContextualEducationURLs\":{\"LAST_HIT\":\"null\"},\"RecoFriend\":{\"UnlinkFB\":\"https://support.riotgames.com/hc/en-us/articles/204167164\",\"FaqLink\":\"http://na.leagueoflegends.com/en/features/faq-add-friends\",\"ShowRecoAddF\":true},\"Clubs\":{\"ClubsEnabled\":true,\"ClubServiceUrl\":\"https://clubs.test.leagueoflegends.com/\"},\"AuthTokenManager\":{\"AuthBasicAuthentication\":null,\"AuthPlatform\":null,\"AuthErrorCacheTimeoutMillis\":null,\"AuthUrl\":null},\"AccountManagement\":{\"EvURL\":\"https://account.pbe.leagueoflegends.com/pbe/en/protect?utm_source=AIRCLIENT\\u0026utm_medium=NOTIFICATION\\u0026utm_campaign=verification\"},\"SeasonReward\":{\"Maximum_team_reward_level\":3,\"Enabled\":true,\"ServiceCallEnabled\":true,\"QualificationWarningEnabled\":true,\"Minimum_points_per_reward_level\":\"20,45,75\",\"Minimum_win_team_reward_level_2\":35,\"Minimum_win_team_reward_level_1\":10,\"DemotionWarningEnabled\":true,\"Minimum_win_team_reward_level_3\":75},\"String\":{\"String\":null},\"ChampionTradeService\":{\"Enabled\":true},\"LeagueConfig\":{\"IsPreseason\":true,\"MasterTierEnabled\":true,\"PreseasonName\":\"2016\",\"SeasonName\":\"2015\"},\"ChampionSelect\":{\"UseOptimizedChampSelectProcessor\":false,\"UseOptimizedSpellSelectProcessor\":false,\"AllChampsAvailableInAram\":false,\"UseOptimizedBotChampionSelectProcessor\":false,\"AutoReconnectEnabled\":true,\"CollatorChampionFilterEnabled\":false,\"AlwaysShowRewardIcon\":false},\"FeaturedGame\":{\"MetadataEnabled\":\"OFF\"},\"MatchHistoryEnabled\":{\"False\":null}}"
+    }
+}

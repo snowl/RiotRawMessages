@@ -1,0 +1,43 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "queue",
+            "Value": "RANKED_TEAM_3x3"
+        },
+        {
+            "Key": "name",
+            "Value": "Nunu\u0027s Outriders"
+        },
+        {
+            "Key": "tier",
+            "Value": "CHALLENGER"
+        },
+        {
+            "Key": "requestorsRank",
+            "Value": "null"
+        },
+        {
+            "Key": "entries",
+            "Value": [
+                
+            ]
+        },
+        {
+            "Key": "nextApexUpdate",
+            "Value": 80348477
+        },
+        {
+            "Key": "maxLeagueSize",
+            "Value": 50
+        },
+        {
+            "Key": "requestorsName",
+            "Value": null
+        }
+    ],
+    "Destination": "leaguesServiceProxy",
+    "Operation": "getChallengerLeague",
+    "Parameters": [
+        "RANKED_TEAM_3x3"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "playerId",
+            "Value": 2159378272
+        },
+        {
+            "Key": "teamsSummary",
+            "Value": [
+                
+            ]
+        },
+        {
+            "Key": "createdTeams",
+            "Value": [
+                
+            ]
+        },
+        {
+            "Key": "playerTeams",
+            "Value": [
+                
+            ]
+        }
+    ],
+    "Destination": "summonerTeamService",
+    "Operation": "createPlayer",
+    "Parameters": [
+        
+    ]
+}

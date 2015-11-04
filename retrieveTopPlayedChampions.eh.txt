@@ -1,0 +1,11 @@
+{
+    "ResponseBody": [
+        
+    ],
+    "Destination": "playerStatsService",
+    "Operation": "retrieveTopPlayedChampions",
+    "Parameters": [
+        2200154627,
+        "CLASSIC"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    
+  "Body":  {
+        
+    "TypeName":  "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse",
+        
+    "payload":  null,
+        
+    "Status":  "ACK",
+        
+    "MessageId":  "FBC1DCB8-D852-1E83-6760-D2A0BF0A8722",
+        
+    "MethodName":  "lockChampionBanV1",
+        
+    "ServiceName":  "teambuilder-draft",
+        
+    "Payload":  null
+  
+    }
+
+}

@@ -1,0 +1,1530 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "spellBook",
+            "Value": [
+                {
+                    "Key": "bookPagesJson",
+                    "Value": null
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "bookPages",
+                    "Value": [
+                        [
+                            {
+                                "Key": "dataVersion",
+                                "Value": 0
+                            },
+                            {
+                                "Key": "pageId",
+                                "Value": 31613673
+                            },
+                            {
+                                "Key": "name",
+                                "Value": "@@!PaG3!@@31613673"
+                            },
+                            {
+                                "Key": "current",
+                                "Value": false
+                            },
+                            {
+                                "Key": "slotEntries",
+                                "Value": [
+                                    
+                                ]
+                            },
+                            {
+                                "Key": "createDate",
+                                "Value": "\/Date(1426911348000)\/"
+                            },
+                            {
+                                "Key": "summonerId",
+                                "Value": 2159378272
+                            },
+                            {
+                                "Key": "futureData",
+                                "Value": null
+                            }
+                        ],
+                        [
+                            {
+                                "Key": "dataVersion",
+                                "Value": 0
+                            },
+                            {
+                                "Key": "pageId",
+                                "Value": 31613672
+                            },
+                            {
+                                "Key": "name",
+                                "Value": "@@!PaG3!@@31613672"
+                            },
+                            {
+                                "Key": "current",
+                                "Value": true
+                            },
+                            {
+                                "Key": "slotEntries",
+                                "Value": [
+                                    
+                                ]
+                            },
+                            {
+                                "Key": "createDate",
+                                "Value": "\/Date(1426911348000)\/"
+                            },
+                            {
+                                "Key": "summonerId",
+                                "Value": 2159378272
+                            },
+                            {
+                                "Key": "futureData",
+                                "Value": null
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "Key": "dateString",
+                    "Value": "Fri Mar 20 21:15:48 PDT 2015"
+                },
+                {
+                    "Key": "summonerId",
+                    "Value": 2159378272
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        },
+        {
+            "Key": "dataVersion",
+            "Value": 0
+        },
+        {
+            "Key": "summonerDefaultSpells",
+            "Value": [
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "summonerDefaultSpellsJson",
+                    "Value": null
+                },
+                {
+                    "Key": "summonerDefaultSpellMap",
+                    "Value": [
+                        {
+                            "Key": "CLASSIC",
+                            "Value": null
+                        }
+                    ]
+                },
+                {
+                    "Key": "summonerId",
+                    "Value": 2159378272
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        },
+        {
+            "Key": "summonerTalentsAndPoints",
+            "Value": [
+                {
+                    "Key": "talentPoints",
+                    "Value": 30
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "modifyDate",
+                    "Value": "\/Date(1426911401000)\/"
+                },
+                {
+                    "Key": "createDate",
+                    "Value": "\/Date(1426911358000)\/"
+                },
+                {
+                    "Key": "summonerId",
+                    "Value": 2159378272
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        },
+        {
+            "Key": "summoner",
+            "Value": [
+                {
+                    "Key": "internalName",
+                    "Value": "hzj"
+                },
+                {
+                    "Key": "previousSeasonHighestTier",
+                    "Value": "UNRANKED"
+                },
+                {
+                    "Key": "acctId",
+                    "Value": 2200154627
+                },
+                {
+                    "Key": "helpFlag",
+                    "Value": false
+                },
+                {
+                    "Key": "sumId",
+                    "Value": 2159378272
+                },
+                {
+                    "Key": "profileIconId",
+                    "Value": 959
+                },
+                {
+                    "Key": "displayEloQuestionaire",
+                    "Value": false
+                },
+                {
+                    "Key": "lastGameDate",
+                    "Value": null
+                },
+                {
+                    "Key": "previousSeasonHighestTeamReward",
+                    "Value": 0
+                },
+                {
+                    "Key": "revisionDate",
+                    "Value": "\/Date(1446642435513)\/"
+                },
+                {
+                    "Key": "advancedTutorialFlag",
+                    "Value": false
+                },
+                {
+                    "Key": "revisionId",
+                    "Value": 0
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "name",
+                    "Value": "hzj"
+                },
+                {
+                    "Key": "nameChangeFlag",
+                    "Value": false
+                },
+                {
+                    "Key": "tutorialFlag",
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "Key": "masteryBook",
+            "Value": [
+                {
+                    "Key": "bookPagesJson",
+                    "Value": null
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "bookPages",
+                    "Value": [
+                        [
+                            {
+                                "Key": "talentEntries",
+                                "Value": [
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 1
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6343
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Dangerous Game"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Dangerous Game"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6343
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Dangerous Game"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6343
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Dangerous Game"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Dangerous Game"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 10
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Dangerous Game"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 5
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6114
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Sorcery"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 5
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Sorcery"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6114
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Sorcery"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6114
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Sorcery"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Sorcery"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Sorcery"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 1
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6122
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Feast"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Feast"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6122
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Feast"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6122
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Feast"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Feast"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Feast"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 5
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6331
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Merciless"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 5
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Merciless"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6331
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Merciless"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6331
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Merciless"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Merciless"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 9
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Merciless"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 1
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6321
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Runic Affinity"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Runic Affinity"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6321
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Runic Affinity"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6321
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Runic Affinity"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Runic Affinity"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 8
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Runic Affinity"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 1
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6141
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Bounty Hunter"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Bounty Hunter"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6141
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Bounty Hunter"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6141
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Bounty Hunter"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Bounty Hunter"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 4
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Bounty Hunter"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 2
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6131
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Vampirism"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 5
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Vampirism"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6131
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Vampirism"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6131
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Vampirism"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Vampirism"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 3
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Vampirism"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 3
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6134
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Natural Talent"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 5
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Natural Talent"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6134
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Natural Talent"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6134
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Natural Talent"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Natural Talent"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 3
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Natural Talent"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 1
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6162
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Fervor of Battle"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Fervor of Battle"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6162
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Fervor of Battle"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6162
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Fervor of Battle"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Fervor of Battle"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 6
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Fervor of Battle"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 4
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6311
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Wanderer"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 5
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Wanderer"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6311
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Wanderer"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6311
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Wanderer"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Wanderer"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 7
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Wanderer"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 5
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6154
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Piercing Thoughts"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 5
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Piercing Thoughts"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6154
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Piercing Thoughts"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6154
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Piercing Thoughts"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Piercing Thoughts"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 5
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Piercing Thoughts"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "Key": "rank",
+                                            "Value": 1
+                                        },
+                                        {
+                                            "Key": "talentId",
+                                            "Value": 6312
+                                        },
+                                        {
+                                            "Key": "dataVersion",
+                                            "Value": 0
+                                        },
+                                        {
+                                            "Key": "talent",
+                                            "Value": [
+                                                {
+                                                    "Key": "index",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "level5Desc",
+                                                    "Value": "Savagery"
+                                                },
+                                                {
+                                                    "Key": "minLevel",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "maxRank",
+                                                    "Value": 5
+                                                },
+                                                {
+                                                    "Key": "level4Desc",
+                                                    "Value": "Savagery"
+                                                },
+                                                {
+                                                    "Key": "tltId",
+                                                    "Value": 6312
+                                                },
+                                                {
+                                                    "Key": "level3Desc",
+                                                    "Value": "Savagery"
+                                                },
+                                                {
+                                                    "Key": "futureData",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "talentGroupId",
+                                                    "Value": 2
+                                                },
+                                                {
+                                                    "Key": "gameCode",
+                                                    "Value": 6312
+                                                },
+                                                {
+                                                    "Key": "minTier",
+                                                    "Value": 1
+                                                },
+                                                {
+                                                    "Key": "prereqTalentGameCode",
+                                                    "Value": null
+                                                },
+                                                {
+                                                    "Key": "dataVersion",
+                                                    "Value": 0
+                                                },
+                                                {
+                                                    "Key": "level2Desc",
+                                                    "Value": "Savagery"
+                                                },
+                                                {
+                                                    "Key": "name",
+                                                    "Value": "Savagery"
+                                                },
+                                                {
+                                                    "Key": "talentRowId",
+                                                    "Value": 7
+                                                },
+                                                {
+                                                    "Key": "level1Desc",
+                                                    "Value": "Savagery"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "Key": "summonerId",
+                                            "Value": -1
+                                        },
+                                        {
+                                            "Key": "futureData",
+                                            "Value": null
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "Key": "dataVersion",
+                                "Value": 0
+                            },
+                            {
+                                "Key": "pageId",
+                                "Value": 16260058
+                            },
+                            {
+                                "Key": "name",
+                                "Value": "Mastery Page 1"
+                            },
+                            {
+                                "Key": "current",
+                                "Value": true
+                            },
+                            {
+                                "Key": "createDate",
+                                "Value": "\/Date(1426911348000)\/"
+                            },
+                            {
+                                "Key": "summonerId",
+                                "Value": 2159378272
+                            },
+                            {
+                                "Key": "futureData",
+                                "Value": null
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "Key": "dateString",
+                    "Value": "Fri Mar 20 21:15:48 PDT 2015"
+                },
+                {
+                    "Key": "summonerId",
+                    "Value": 2159378272
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        },
+        {
+            "Key": "summonerLevelAndPoints",
+            "Value": [
+                {
+                    "Key": "infPoints",
+                    "Value": 0
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "expPoints",
+                    "Value": 0
+                },
+                {
+                    "Key": "summonerLevel",
+                    "Value": 30
+                },
+                {
+                    "Key": "summonerId",
+                    "Value": 2159378272
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        },
+        {
+            "Key": "summonerLevel",
+            "Value": [
+                {
+                    "Key": "expTierMod",
+                    "Value": 1
+                },
+                {
+                    "Key": "grantRp",
+                    "Value": 0
+                },
+                {
+                    "Key": "expForLoss",
+                    "Value": 0
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 1
+                },
+                {
+                    "Key": "summonerTier",
+                    "Value": 1
+                },
+                {
+                    "Key": "infTierMod",
+                    "Value": 1
+                },
+                {
+                    "Key": "expToNextLevel",
+                    "Value": 1250
+                },
+                {
+                    "Key": "expForWin",
+                    "Value": 0
+                },
+                {
+                    "Key": "summonerLevel",
+                    "Value": 30
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        },
+        {
+            "Key": "futureData",
+            "Value": null
+        }
+    ],
+    "Destination": "summonerService",
+    "Operation": "getAllSummonerDataByAccount",
+    "Parameters": [
+        2200154627
+    ]
+}

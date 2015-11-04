@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "07618C9B-01DE-FE9C-408D-D2A2CEC6A2B1",
+        "teambuilder-draft",
+        "indicateAfkReadinessV1",
+        "{\"afkReady\":true}"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "ResponseBody": {
+        "CorrelationId": "40DE376F-AF29-F1F7-1BDD-D2A4CF6432A7",
+        "ClientId": "5244B8BE-1D0E-6668-9945-01CBA2AC7CDD",
+        "Destination": null,
+        "MessageId": "5244B902-7938-1791-9A6D-0E5752A75806",
+        "Timestamp": 1446643037321,
+        "TimeToLive": 0,
+        "Body": null,
+        "Headers": [
+            
+        ]
+    },
+    "Destination": "loginService",
+    "Operation": "logout",
+    "Parameters": [
+        "87bcc31a-b51f-41c9-b4af-a0fd5b81acaa"
+    ]
+}

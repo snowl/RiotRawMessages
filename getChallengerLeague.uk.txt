@@ -1,0 +1,5142 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "queue",
+            "Value": "RANKED_SOLO_5x5"
+        },
+        {
+            "Key": "name",
+            "Value": "Darius\u0027s Wizards"
+        },
+        {
+            "Key": "tier",
+            "Value": "CHALLENGER"
+        },
+        {
+            "Key": "requestorsRank",
+            "Value": "null"
+        },
+        {
+            "Key": "entries",
+            "Value": [
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 49
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1435498"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 42
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 49
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 45
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "dingus maximus"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 45
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 40
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1516228"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 68
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 40
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 104
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "The Government"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 112
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 14
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158648615"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 459
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 14
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 122
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Gale"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 162
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 10
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158018225"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 523
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 10
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 128
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "NotBaka"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 164
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 2
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1051962"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 1019
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 2
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": true
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 145
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "DrPepper Jr"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 137
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 43
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": true
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2152071807"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 62
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 43
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 228
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "ShirtyElm"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 236
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 45
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1169938"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 49
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 45
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 130
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Zhora"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 104
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 19
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2160128673"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 256
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 19
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 65
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Baby5"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 89
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 8
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158648300"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 588
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 8
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 98
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Shane"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 127
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 25
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2160558236"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 159
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 25
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 141
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Osu"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 158
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 18
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2152878228"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 258
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 18
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 82
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Never Ever Lucky"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 100
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 32
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2161138243"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 117
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 32
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 57
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "brrrrrt11"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 77
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 34
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "3167910"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 100
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 34
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 60
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "AcexKing"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 83
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 23
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2152419359"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 190
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 23
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 99
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Goldy"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 92
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 30
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2151328261"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 125
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 30
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 97
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Maiden of Light"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 112
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 41
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "735758"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 66
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 41
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 142
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Les Verites"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 143
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 21
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2155658239"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 221
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 21
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": true
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 215
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Stun"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 238
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 22
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158638850"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 214
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 22
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 97
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "MXE"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 121
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 48
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1895836"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 42
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 48
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 52
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "TeMoW"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 55
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 11
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2155528226"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 515
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 11
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 102
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Kryg"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 110
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 33
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158778454"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 111
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 33
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 78
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Lilly"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 96
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 27
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158668335"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 136
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 27
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 77
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "OGAZAKITOMOYO"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 90
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 35
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": true
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2156348443"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 86
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 35
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 118
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "MySadRemedy"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 154
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 16
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2160278351"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 324
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 16
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 83
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Jennifer"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 111
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 12
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": true
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2156398961"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 511
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 12
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": true
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 150
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Dan Gurewitch"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 182
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 5
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2161758422"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 810
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 5
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": true
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 105
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Resi"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 125
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 28
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158651192"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 132
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 28
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 85
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Beuca"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 104
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 4
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2152302184"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 898
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 4
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 86
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Not Max"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 104
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 24
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2155988247"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 172
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 24
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 79
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "fireshear"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 94
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 3
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2160238347"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 947
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 3
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": true
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 153
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Hate"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 198
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 20
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2160369000"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 241
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 20
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 116
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "GapeHorn"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 141
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 31
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2152069844"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 119
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 31
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 57
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Savia"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 61
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 1
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158649926"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 1109
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 1
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": true
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 120
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Project Yi"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 171
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 37
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158640329"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 84
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 37
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 127
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Kitty Cat"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 144
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 13
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": true
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2156578667"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 465
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 13
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 60
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Shayaka"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 92
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 6
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1761200"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 691
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 6
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 86
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Leon Brotsky"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 122
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 36
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1006214"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 85
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 36
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 405
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "fastPK"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 418
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 50
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "267151"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 22
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 50
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 97
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Fillio"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 126
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 47
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2152858227"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 45
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 47
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 60
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Rufus Eugene"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 75
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 26
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158728523"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 143
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 26
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 129
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Istanbul"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 154
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 7
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": true
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1616261"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 631
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 7
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 49
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "wasabi"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 78
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 42
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": true
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "901238"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 63
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 42
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 32
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Im HeIping"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 52
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 39
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": true
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2150878252"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 70
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 39
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 267
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Bloood Orange"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 291
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 15
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "269774"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 342
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 15
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 98
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "SophiaSapphires"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 85
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 46
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "3957852"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 46
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 46
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 57
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Tekk"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 81
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 29
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2156688265"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 129
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 29
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 163
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "King Crimson"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 173
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 44
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2152738410"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 56
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 44
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 49
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Kamui"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 47
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 9
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2158719036"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 584
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 9
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 86
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "monsterbar"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 121
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 17
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": false
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "2160089090"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 306
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 17
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 122
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Doxiz"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 155
+                    }
+                ],
+                [
+                    {
+                        "Key": "previousDayLeaguePosition",
+                        "Value": 38
+                    },
+                    {
+                        "Key": "timeLastDecayMessageShown",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "seasonEndTier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "seasonEndRank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "hotStreak",
+                        "Value": false
+                    },
+                    {
+                        "Key": "leagueName",
+                        "Value": "Darius\u0027s Wizards"
+                    },
+                    {
+                        "Key": "miniSeries",
+                        "Value": null
+                    },
+                    {
+                        "Key": "tier",
+                        "Value": "CHALLENGER"
+                    },
+                    {
+                        "Key": "freshBlood",
+                        "Value": true
+                    },
+                    {
+                        "Key": "lastPlayed",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "timeUntilInactivityStatusChanges",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactivityStatus",
+                        "Value": "OK"
+                    },
+                    {
+                        "Key": "playerOrTeamId",
+                        "Value": "1888393"
+                    },
+                    {
+                        "Key": "leaguePoints",
+                        "Value": 78
+                    },
+                    {
+                        "Key": "demotionWarning",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "inactive",
+                        "Value": false
+                    },
+                    {
+                        "Key": "seasonEndApexPosition",
+                        "Value": 38
+                    },
+                    {
+                        "Key": "rank",
+                        "Value": "I"
+                    },
+                    {
+                        "Key": "veteran",
+                        "Value": false
+                    },
+                    {
+                        "Key": "queueType",
+                        "Value": "RANKED_SOLO_5x5"
+                    },
+                    {
+                        "Key": "losses",
+                        "Value": 137
+                    },
+                    {
+                        "Key": "timeUntilDecay",
+                        "Value": -1
+                    },
+                    {
+                        "Key": "displayDecayWarning",
+                        "Value": false
+                    },
+                    {
+                        "Key": "playerOrTeamName",
+                        "Value": "Crush"
+                    },
+                    {
+                        "Key": "wins",
+                        "Value": 132
+                    }
+                ]
+            ]
+        },
+        {
+            "Key": "nextApexUpdate",
+            "Value": 80349117
+        },
+        {
+            "Key": "maxLeagueSize",
+            "Value": 50
+        },
+        {
+            "Key": "requestorsName",
+            "Value": null
+        }
+    ],
+    "Destination": "leaguesServiceProxy",
+    "Operation": "getChallengerLeague",
+    "Parameters": [
+        "RANKED_SOLO_5x5"
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "Body": {
+        "TypeName": "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse",
+        "payload": {
+            "counter": 14,
+            "phaseName": "CHAMPION_SELECT",
+            "championSelectState": {
+                "teamId": "e3b0270d-9e8b-4deb-b9e2-7557eb43f4bc",
+                "teamChatRoomId": "e3b0270d-9e8b-4deb-b9e2-7557eb43f4bc",
+                "subphase": "PLANNING",
+                "actionSetList": [
+                    [
+                        {
+                            "actionId": 0,
+                            "actorCellId": 2,
+                            "type": "BAN",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 1,
+                            "actorCellId": 7,
+                            "type": "BAN",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 2,
+                            "actorCellId": 3,
+                            "type": "BAN",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 3,
+                            "actorCellId": 8,
+                            "type": "BAN",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 4,
+                            "actorCellId": 4,
+                            "type": "BAN",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 5,
+                            "actorCellId": 9,
+                            "type": "BAN",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 6,
+                            "actorCellId": 0,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 7,
+                            "actorCellId": 5,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 8,
+                            "actorCellId": 6,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 9,
+                            "actorCellId": 1,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 10,
+                            "actorCellId": 2,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 11,
+                            "actorCellId": 7,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 12,
+                            "actorCellId": 8,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 13,
+                            "actorCellId": 3,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 14,
+                            "actorCellId": 4,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ],
+                    [
+                        {
+                            "actionId": 15,
+                            "actorCellId": 9,
+                            "type": "PICK",
+                            "championId": 0,
+                            "completed": false
+                        }
+                    ]
+                ],
+                "currentActionSetIndex": -1,
+                "cells": {
+                    "alliedTeam": [
+                        {
+                            "teamId": 2,
+                            "cellId": 5,
+                            "summonerName": "Voidner",
+                            "championPickIntent": 0,
+                            "championId": 0,
+                            "assignedPosition": "TOP",
+                            "spell1Id": 4,
+                            "spell2Id": 12
+                        },
+                        {
+                            "teamId": 2,
+                            "cellId": 6,
+                            "summonerName": "1nstent ",
+                            "championPickIntent": 0,
+                            "championId": 0,
+                            "assignedPosition": "UTILITY",
+                            "spell1Id": 4,
+                            "spell2Id": 11
+                        },
+                        {
+                            "teamId": 2,
+                            "cellId": 7,
+                            "summonerName": "hzj",
+                            "championPickIntent": 268,
+                            "championId": 0,
+                            "assignedPosition": "MIDDLE",
+                            "spell1Id": 6,
+                            "spell2Id": 7
+                        },
+                        {
+                            "teamId": 2,
+                            "cellId": 8,
+                            "summonerName": "TSM Ryuuzaki",
+                            "championPickIntent": 64,
+                            "championId": 0,
+                            "assignedPosition": "JUNGLE",
+                            "spell1Id": 4,
+                            "spell2Id": 11
+                        },
+                        {
+                            "teamId": 2,
+                            "cellId": 9,
+                            "summonerName": "Wilcraft",
+                            "championPickIntent": 0,
+                            "championId": 0,
+                            "assignedPosition": "BOTTOM",
+                            "spell1Id": 6,
+                            "spell2Id": 7
+                        }
+                    ],
+                    "enemyTeam": [
+                        {
+                            "teamId": 1,
+                            "cellId": 0,
+                            "championId": 0
+                        },
+                        {
+                            "teamId": 1,
+                            "cellId": 1,
+                            "championId": 0
+                        },
+                        {
+                            "teamId": 1,
+                            "cellId": 2,
+                            "championId": 0
+                        },
+                        {
+                            "teamId": 1,
+                            "cellId": 3,
+                            "championId": 0
+                        },
+                        {
+                            "teamId": 1,
+                            "cellId": 4,
+                            "championId": 0
+                        }
+                    ]
+                },
+                "localPlayerCellId": 7,
+                "bans": {
+                    "alliedBans": [
+                        
+                    ],
+                    "enemyBans": [
+                        
+                    ]
+                },
+                "currentTotalTimeMillis": 40000,
+                "currentTimeRemainingMillis": 27435,
+                "trades": [
+                    
+                ]
+            }
+        },
+        "Status": "OK",
+        "MessageId": "66016F04-F082-366C-0150-D2A01C2F5F3A",
+        "MethodName": "tbdGameDtoV1",
+        "ServiceName": "teambuilder-draft",
+        "Payload": "{\"counter\":14,\"phaseName\":\"CHAMPION_SELECT\",\"championSelectState\":{\"teamId\":\"e3b0270d-9e8b-4deb-b9e2-7557eb43f4bc\",\"teamChatRoomId\":\"e3b0270d-9e8b-4deb-b9e2-7557eb43f4bc\",\"subphase\":\"PLANNING\",\"actionSetList\":[[{\"actionId\":0,\"actorCellId\":2,\"type\":\"BAN\",\"championId\":0,\"completed\":false}],[{\"actionId\":1,\"actorCellId\":7,\"type\":\"BAN\",\"championId\":0,\"completed\":false}],[{\"actionId\":2,\"actorCellId\":3,\"type\":\"BAN\",\"championId\":0,\"completed\":false}],[{\"actionId\":3,\"actorCellId\":8,\"type\":\"BAN\",\"championId\":0,\"completed\":false}],[{\"actionId\":4,\"actorCellId\":4,\"type\":\"BAN\",\"championId\":0,\"completed\":false}],[{\"actionId\":5,\"actorCellId\":9,\"type\":\"BAN\",\"championId\":0,\"completed\":false}],[{\"actionId\":6,\"actorCellId\":0,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":7,\"actorCellId\":5,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":8,\"actorCellId\":6,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":9,\"actorCellId\":1,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":10,\"actorCellId\":2,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":11,\"actorCellId\":7,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":12,\"actorCellId\":8,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":13,\"actorCellId\":3,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":14,\"actorCellId\":4,\"type\":\"PICK\",\"championId\":0,\"completed\":false}],[{\"actionId\":15,\"actorCellId\":9,\"type\":\"PICK\",\"championId\":0,\"completed\":false}]],\"currentActionSetIndex\":-1,\"cells\":{\"alliedTeam\":[{\"teamId\":2,\"cellId\":5,\"summonerName\":\"Voidner\",\"championPickIntent\":0,\"championId\":0,\"assignedPosition\":\"TOP\",\"spell1Id\":4,\"spell2Id\":12},{\"teamId\":2,\"cellId\":6,\"summonerName\":\"1nstent \",\"championPickIntent\":0,\"championId\":0,\"assignedPosition\":\"UTILITY\",\"spell1Id\":4,\"spell2Id\":11},{\"teamId\":2,\"cellId\":7,\"summonerName\":\"hzj\",\"championPickIntent\":268,\"championId\":0,\"assignedPosition\":\"MIDDLE\",\"spell1Id\":6,\"spell2Id\":7},{\"teamId\":2,\"cellId\":8,\"summonerName\":\"TSM Ryuuzaki\",\"championPickIntent\":64,\"championId\":0,\"assignedPosition\":\"JUNGLE\",\"spell1Id\":4,\"spell2Id\":11},{\"teamId\":2,\"cellId\":9,\"summonerName\":\"Wilcraft\",\"championPickIntent\":0,\"championId\":0,\"assignedPosition\":\"BOTTOM\",\"spell1Id\":6,\"spell2Id\":7}],\"enemyTeam\":[{\"teamId\":1,\"cellId\":0,\"championId\":0},{\"teamId\":1,\"cellId\":1,\"championId\":0},{\"teamId\":1,\"cellId\":2,\"championId\":0},{\"teamId\":1,\"cellId\":3,\"championId\":0},{\"teamId\":1,\"cellId\":4,\"championId\":0}]},\"localPlayerCellId\":7,\"bans\":{\"alliedBans\":[],\"enemyBans\":[]},\"currentTotalTimeMillis\":40000,\"currentTimeRemainingMillis\":27435,\"trades\":[]}}"
+    }
+}

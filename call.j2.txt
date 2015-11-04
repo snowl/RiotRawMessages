@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "9D3C07C5-7A6F-372E-EAD2-D29F61B2B14D",
+        "teambuilder-draft",
+        "specifyDraftPositionPreferencesV1",
+        "{\"firstPreference\":\"FILL\",\"secondPreference\":\"BOTTOM\"}"
+    ]
+}

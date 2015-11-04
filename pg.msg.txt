@@ -1,0 +1,40 @@
+{
+    "Body": {
+        "TypeName": "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse",
+        "payload": {
+            "counter": 2,
+            "phaseName": "DRAFT_PREMADE",
+            "premadeState": {
+                "timer": 3596930,
+                "draftPremadeId": "66156258-0eb4-42cb-b4b0-9aeecb911dbc",
+                "premadeChatRoomId": "66156258-0eb4-42cb-b4b0-9aeecb911dbc",
+                "captainSlotId": 0,
+                "readyToMatchmake": true,
+                "draftSlots": [
+                    {
+                        "slotId": 0,
+                        "summonerName": "hzj",
+                        "draftPositionPreferences": [
+                            "FILL",
+                            "UNSELECTED"
+                        ]
+                    }
+                ],
+                "playableDraftPositions": [
+                    "BOTTOM",
+                    "UTILITY",
+                    "FILL",
+                    "JUNGLE",
+                    "TOP",
+                    "MIDDLE"
+                ],
+                "localPlayerSlotId": 0
+            }
+        },
+        "Status": "OK",
+        "MessageId": "54CA1E09-DD65-30A4-050A-D29F5EED8664",
+        "MethodName": "tbdGameDtoV1",
+        "ServiceName": "teambuilder-draft",
+        "Payload": "{\"counter\":2,\"phaseName\":\"DRAFT_PREMADE\",\"premadeState\":{\"timer\":3596930,\"draftPremadeId\":\"66156258-0eb4-42cb-b4b0-9aeecb911dbc\",\"premadeChatRoomId\":\"66156258-0eb4-42cb-b4b0-9aeecb911dbc\",\"captainSlotId\":0,\"readyToMatchmake\":true,\"draftSlots\":[{\"slotId\":0,\"summonerName\":\"hzj\",\"draftPositionPreferences\":[\"FILL\",\"UNSELECTED\"]}],\"playableDraftPositions\":[\"BOTTOM\",\"UTILITY\",\"FILL\",\"JUNGLE\",\"TOP\",\"MIDDLE\"],\"localPlayerSlotId\":0}}"
+    }
+}

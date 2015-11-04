@@ -1,0 +1,162 @@
+{
+    "ResponseBody": [
+        [
+            {
+                "Key": "blockedMinutesThreshold",
+                "Value": 65
+            },
+            {
+                "Key": "ranked",
+                "Value": false
+            },
+            {
+                "Key": "minimumParticipantListSize",
+                "Value": 5
+            },
+            {
+                "Key": "maxLevel",
+                "Value": 30
+            },
+            {
+                "Key": "thresholdEnabled",
+                "Value": false
+            },
+            {
+                "Key": "gameTypeConfigId",
+                "Value": 18
+            },
+            {
+                "Key": "minLevel",
+                "Value": 0
+            },
+            {
+                "Key": "queueState",
+                "Value": "ON"
+            },
+            {
+                "Key": "type",
+                "Value": "NORMAL"
+            },
+            {
+                "Key": "cacheName",
+                "Value": "matching-queue-TEAM_BUILDER_DRAFT_UNRANKED-5x5-game-queue"
+            },
+            {
+                "Key": "id",
+                "Value": 400
+            },
+            {
+                "Key": "queueBonusKey",
+                "Value": "normalQueueBonuses"
+            },
+            {
+                "Key": "dataVersion",
+                "Value": 0
+            },
+            {
+                "Key": "maxSummonerLevelForFirstWinOfTheDay",
+                "Value": 100
+            },
+            {
+                "Key": "queueStateString",
+                "Value": "ON"
+            },
+            {
+                "Key": "pointsConfigKey",
+                "Value": "normalSummonersRift"
+            },
+            {
+                "Key": "teamOnly",
+                "Value": false
+            },
+            {
+                "Key": "minimumQueueDodgeDelayTime",
+                "Value": 8000
+            },
+            {
+                "Key": "randomizeTeamSides",
+                "Value": true
+            },
+            {
+                "Key": "supportedMapIds",
+                "Value": [
+                    11
+                ]
+            },
+            {
+                "Key": "futureData",
+                "Value": null
+            },
+            {
+                "Key": "gameMode",
+                "Value": "CLASSIC"
+            },
+            {
+                "Key": "typeString",
+                "Value": "NORMAL"
+            },
+            {
+                "Key": "numPlayersPerTeam",
+                "Value": 5
+            },
+            {
+                "Key": "disallowFreeChampions",
+                "Value": false
+            },
+            {
+                "Key": "maximumParticipantListSize",
+                "Value": 5
+            },
+            {
+                "Key": "mapSelectionAlgorithm",
+                "Value": "LAST"
+            },
+            {
+                "Key": "botsCanSpawnOnBlueSide",
+                "Value": true
+            },
+            {
+                "Key": "gameMutators",
+                "Value": [
+                    
+                ]
+            },
+            {
+                "Key": "thresholdSize",
+                "Value": 2147483647
+            },
+            {
+                "Key": "matchingThrottleConfig",
+                "Value": [
+                    {
+                        "Key": "limit",
+                        "Value": 2147483647
+                    },
+                    {
+                        "Key": "matchingThrottleProperties",
+                        "Value": [
+                            
+                        ]
+                    },
+                    {
+                        "Key": "dataVersion",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "cacheName",
+                        "Value": ""
+                    },
+                    {
+                        "Key": "futureData",
+                        "Value": null
+                    }
+                ]
+            }
+        ]
+    ],
+    "Destination": "matchmakerService",
+    "Operation": "getAvailableQueues",
+    "Parameters": [
+        
+    ]
+}

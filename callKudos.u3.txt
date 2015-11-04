@@ -1,0 +1,13 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "value",
+            "Value": "{\"totals\":[0,0,0,0,0]}"
+        }
+    ],
+    "Destination": "clientFacadeService",
+    "Operation": "callKudos",
+    "Parameters": [
+        "{\"summonerId\":2159378272,\"commandName\":\"TOTALS\"}"
+    ]
+}

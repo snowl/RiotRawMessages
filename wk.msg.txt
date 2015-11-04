@@ -1,0 +1,15 @@
+{
+    "Body": {
+        "TypeName": "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse",
+        "payload": {
+            "enabledFeatures": [
+                
+            ]
+        },
+        "Status": "OK",
+        "MessageId": "6992DA2D-077E-81EF-4DD7-D29F516806B4",
+        "MethodName": "featureTogglesRetrieved",
+        "ServiceName": "teambuilder-draft",
+        "Payload": "{\"enabledFeatures\":[]}"
+    }
+}

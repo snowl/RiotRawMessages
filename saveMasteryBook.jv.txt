@@ -1,0 +1,778 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "bookPagesJson",
+            "Value": null
+        },
+        {
+            "Key": "dataVersion",
+            "Value": 0
+        },
+        {
+            "Key": "bookPages",
+            "Value": [
+                [
+                    {
+                        "Key": "talentEntries",
+                        "Value": [
+                            
+                        ]
+                    },
+                    {
+                        "Key": "dataVersion",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "pageId",
+                        "Value": 16260059
+                    },
+                    {
+                        "Key": "name",
+                        "Value": "@@!PaG3!@@16260059"
+                    },
+                    {
+                        "Key": "current",
+                        "Value": true
+                    },
+                    {
+                        "Key": "createDate",
+                        "Value": null
+                    },
+                    {
+                        "Key": "summonerId",
+                        "Value": 2159378272
+                    },
+                    {
+                        "Key": "futureData",
+                        "Value": null
+                    }
+                ],
+                [
+                    {
+                        "Key": "talentEntries",
+                        "Value": [
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 5
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6114
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 1
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6343
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 1
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6122
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 1
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6321
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 5
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6331
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 1
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6141
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 3
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6134
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 2
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6131
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 1
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6162
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 5
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6154
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 4
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6311
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ],
+                            [
+                                {
+                                    "Key": "rank",
+                                    "Value": 1
+                                },
+                                {
+                                    "Key": "talentId",
+                                    "Value": 6312
+                                },
+                                {
+                                    "Key": "dataVersion",
+                                    "Value": 0
+                                },
+                                {
+                                    "Key": "talent",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "summonerId",
+                                    "Value": -1
+                                },
+                                {
+                                    "Key": "futureData",
+                                    "Value": null
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "Key": "dataVersion",
+                        "Value": 0
+                    },
+                    {
+                        "Key": "pageId",
+                        "Value": 16260058
+                    },
+                    {
+                        "Key": "name",
+                        "Value": "Mastery Page 1"
+                    },
+                    {
+                        "Key": "current",
+                        "Value": false
+                    },
+                    {
+                        "Key": "createDate",
+                        "Value": "\/Date(1426911348000)\/"
+                    },
+                    {
+                        "Key": "summonerId",
+                        "Value": 2159378272
+                    },
+                    {
+                        "Key": "futureData",
+                        "Value": null
+                    }
+                ]
+            ]
+        },
+        {
+            "Key": "dateString",
+            "Value": "Fri Mar 20 21:15:48 PDT 2015"
+        },
+        {
+            "Key": "summonerId",
+            "Value": 2159378272
+        },
+        {
+            "Key": "futureData",
+            "Value": null
+        }
+    ],
+    "Destination": "masteryBookService",
+    "Operation": "saveMasteryBook",
+    "Parameters": [
+        [
+            {
+                "Key": "bookPages",
+                "Value": [
+                    [
+                        {
+                            "Key": "talentEntries",
+                            "Value": [
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6343
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 1
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6114
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 5
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6122
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 1
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6331
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 5
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6321
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 1
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6141
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 1
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6131
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 2
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6134
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 3
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6162
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 1
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6311
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 4
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6154
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 5
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ],
+                                [
+                                    {
+                                        "Key": "talentId",
+                                        "Value": 6312
+                                    },
+                                    {
+                                        "Key": "rank",
+                                        "Value": 1
+                                    },
+                                    {
+                                        "Key": "futureData",
+                                        "Value": null
+                                    },
+                                    {
+                                        "Key": "dataVersion",
+                                        "Value": null
+                                    }
+                                ]
+                            ]
+                        },
+                        {
+                            "Key": "nameChanged",
+                            "Value": [
+                                
+                            ]
+                        },
+                        {
+                            "Key": "pageId",
+                            "Value": 16260058
+                        },
+                        {
+                            "Key": "createDate",
+                            "Value": "\/Date(1426911348000)\/"
+                        },
+                        {
+                            "Key": "name",
+                            "Value": "Mastery Page 1"
+                        },
+                        {
+                            "Key": "current",
+                            "Value": false
+                        },
+                        {
+                            "Key": "summonerId",
+                            "Value": 2159378272
+                        },
+                        {
+                            "Key": "futureData",
+                            "Value": null
+                        },
+                        {
+                            "Key": "dataVersion",
+                            "Value": null
+                        }
+                    ],
+                    [
+                        {
+                            "Key": "talentEntries",
+                            "Value": [
+                                
+                            ]
+                        },
+                        {
+                            "Key": "nameChanged",
+                            "Value": [
+                                
+                            ]
+                        },
+                        {
+                            "Key": "pageId",
+                            "Value": 16260059
+                        },
+                        {
+                            "Key": "createDate",
+                            "Value": null
+                        },
+                        {
+                            "Key": "name",
+                            "Value": "@@!PaG3!@@16260059"
+                        },
+                        {
+                            "Key": "current",
+                            "Value": true
+                        },
+                        {
+                            "Key": "summonerId",
+                            "Value": 2159378272
+                        },
+                        {
+                            "Key": "futureData",
+                            "Value": null
+                        },
+                        {
+                            "Key": "dataVersion",
+                            "Value": null
+                        }
+                    ]
+                ]
+            },
+            {
+                "Key": "summonerId",
+                "Value": 2159378272
+            },
+            {
+                "Key": "sortByPageId",
+                "Value": [
+                    {
+                        "Key": "unique",
+                        "Value": false
+                    },
+                    {
+                        "Key": "compareFunction",
+                        "Value": null
+                    },
+                    {
+                        "Key": "fields",
+                        "Value": [
+                            [
+                                {
+                                    "Key": "caseInsensitive",
+                                    "Value": false
+                                },
+                                {
+                                    "Key": "compareFunction",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "numeric",
+                                    "Value": null
+                                },
+                                {
+                                    "Key": "descending",
+                                    "Value": false
+                                },
+                                {
+                                    "Key": "name",
+                                    "Value": "pageId"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "Key": "dateString",
+                "Value": "Fri Mar 20 21:15:48 PDT 2015"
+            },
+            {
+                "Key": "futureData",
+                "Value": null
+            },
+            {
+                "Key": "dataVersion",
+                "Value": null
+            }
+        ]
+    ]
+}

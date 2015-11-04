@@ -1,0 +1,10 @@
+{
+    "ResponseBody": [
+        0
+    ],
+    "Destination": "inventoryService",
+    "Operation": "getOwnedWardSkin",
+    "Parameters": [
+        
+    ]
+}

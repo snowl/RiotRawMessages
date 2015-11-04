@@ -1,0 +1,13 @@
+{
+    "Body": {
+        "TypeName": "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse",
+        "payload": [
+            
+        ],
+        "Status": "OK",
+        "MessageId": "0D9F5B2E-E922-EB75-1E8E-D29F552250DC",
+        "MethodName": "retrieveOnlineFriendsOfFriends",
+        "ServiceName": "suggestedPlayers",
+        "Payload": "[]"
+    }
+}

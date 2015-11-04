@@ -1,0 +1,8 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsGameInvitationService",
+    "Operation": "checkLobbyStatus",
+    "Parameters": [
+        
+    ]
+}

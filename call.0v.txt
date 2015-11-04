@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "6992DA2D-077E-81EF-4DD7-D29F516806B4",
+        "teambuilder-draft",
+        "retrieveFeatureToggles",
+        "{}"
+    ]
+}

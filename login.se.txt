@@ -1,0 +1,111 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "token",
+            "Value": "87bcc31a-b51f-41c9-b4af-a0fd5b81acaa"
+        },
+        {
+            "Key": "password",
+            "Value": ""
+        },
+        {
+            "Key": "accountSummary",
+            "Value": [
+                {
+                    "Key": "groupCount",
+                    "Value": 0
+                },
+                {
+                    "Key": "username",
+                    "Value": "snowl"
+                },
+                {
+                    "Key": "accountId",
+                    "Value": 2200154627
+                },
+                {
+                    "Key": "summonerInternalName",
+                    "Value": null
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "admin",
+                    "Value": false
+                },
+                {
+                    "Key": "hasBetaAccess",
+                    "Value": true
+                },
+                {
+                    "Key": "summonerName",
+                    "Value": null
+                },
+                {
+                    "Key": "partnerMode",
+                    "Value": false
+                },
+                {
+                    "Key": "needsPasswordReset",
+                    "Value": false
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        }
+    ],
+    "Destination": "loginService",
+    "Operation": "login",
+    "Parameters": [
+        [
+            {
+                "Key": "macAddress",
+                "Value": ""
+            },
+            {
+                "Key": "locale",
+                "Value": "en_US"
+            },
+            {
+                "Key": "securityAnswer",
+                "Value": null
+            },
+            {
+                "Key": "domain",
+                "Value": "lolclient.lol.riotgames.com"
+            },
+            {
+                "Key": "partnerCredentials",
+                "Value": null
+            },
+            {
+                "Key": "password",
+                "Value": ""
+            },
+            {
+                "Key": "clientVersion",
+                "Value": "5.22.15_11_03_16_41"
+            },
+            {
+                "Key": "operatingSystem",
+                "Value": "Windows 8"
+            },
+            {
+                "Key": "oldPassword",
+                "Value": null
+            },
+            {
+                "Key": "authToken",
+                "Value": "{\"account_name\":\"snowl\",\"uuid\":\"\",\"signature\":\"\",\"account_id\":2200154627,\"fingerprint\":\"\",\"resources\":\"lol\",\"ip\":\"\",\"other\":\"\",\"timestamp\":1446642634659}"
+            },
+            {
+                "Key": "username",
+                "Value": "snowl"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "66016F04-F082-366C-0150-D2A01C2F5F3A",
+        "teambuilder-draft",
+        "signalChampionPickIntentV1",
+        "{\"championId\":268}"
+    ]
+}

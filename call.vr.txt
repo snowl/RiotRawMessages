@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "0D9F5B2E-E922-EB75-1E8E-D29F552250DC",
+        "suggestedPlayers",
+        "retrieveOnlineFriendsOfFriends",
+        "{\"queueId\":400}"
+    ]
+}

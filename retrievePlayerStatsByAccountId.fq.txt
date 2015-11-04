@@ -1,0 +1,98 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "playerStatSummaries",
+            "Value": [
+                {
+                    "Key": "season",
+                    "Value": 5
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "playerStatSummarySet",
+                    "Value": [
+                        
+                    ]
+                },
+                {
+                    "Key": "userId",
+                    "Value": 2200154627
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        },
+        {
+            "Key": "dataVersion",
+            "Value": 0
+        },
+        {
+            "Key": "previousFirstWinOfDay",
+            "Value": null
+        },
+        {
+            "Key": "userId",
+            "Value": 2200154627
+        },
+        {
+            "Key": "dodgeStreak",
+            "Value": 0
+        },
+        {
+            "Key": "dodgePenaltyDate",
+            "Value": null
+        },
+        {
+            "Key": "playerStatsJson",
+            "Value": null
+        },
+        {
+            "Key": "playerStats",
+            "Value": [
+                {
+                    "Key": "timeTrackedStats",
+                    "Value": [
+                        
+                    ]
+                },
+                {
+                    "Key": "promoGamesPlayed",
+                    "Value": 0
+                },
+                {
+                    "Key": "dataVersion",
+                    "Value": 0
+                },
+                {
+                    "Key": "promoGamesPlayedLastUpdated",
+                    "Value": null
+                },
+                {
+                    "Key": "lifetimeGamesPlayed",
+                    "Value": [
+                        
+                    ]
+                },
+                {
+                    "Key": "futureData",
+                    "Value": null
+                }
+            ]
+        },
+        {
+            "Key": "futureData",
+            "Value": null
+        }
+    ],
+    "Destination": "playerStatsService",
+    "Operation": "retrievePlayerStatsByAccountId",
+    "Parameters": [
+        2200154627,
+        5
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "queue",
+            "Value": "RANKED_TEAM_5x5"
+        },
+        {
+            "Key": "name",
+            "Value": "Wukong\u0027s Lancers"
+        },
+        {
+            "Key": "tier",
+            "Value": "MASTER"
+        },
+        {
+            "Key": "requestorsRank",
+            "Value": "null"
+        },
+        {
+            "Key": "entries",
+            "Value": [
+                
+            ]
+        },
+        {
+            "Key": "nextApexUpdate",
+            "Value": 80348052
+        },
+        {
+            "Key": "maxLeagueSize",
+            "Value": 2147483647
+        },
+        {
+            "Key": "requestorsName",
+            "Value": null
+        }
+    ],
+    "Destination": "leaguesServiceProxy",
+    "Operation": "getMasterLeagueTopX",
+    "Parameters": [
+        "RANKED_TEAM_5x5",
+        200
+    ]
+}

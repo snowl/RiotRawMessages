@@ -1,0 +1,23 @@
+{
+    "Body": {
+        "TypeName": "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse",
+        "payload": {
+            "counter": 11,
+            "phaseName": "AFK_CHECK",
+            "matchmakingState": {
+                "estimatedMatchmakingTimeMillis": 399757,
+                "timeInMatchmakingMillis": 29701
+            },
+            "afkCheckState": {
+                "maxAfkMillis": 10000,
+                "remainingAfkMillis": 8608,
+                "afkReady": true
+            }
+        },
+        "Status": "OK",
+        "MessageId": "32EEE1BD-6940-23B3-3725-D29FE312042B",
+        "MethodName": "tbdGameDtoV1",
+        "ServiceName": "teambuilder-draft",
+        "Payload": "{\"counter\":11,\"phaseName\":\"AFK_CHECK\",\"matchmakingState\":{\"estimatedMatchmakingTimeMillis\":399757,\"timeInMatchmakingMillis\":29701},\"afkCheckState\":{\"maxAfkMillis\":10000,\"remainingAfkMillis\":8608,\"afkReady\":true}}"
+    }
+}

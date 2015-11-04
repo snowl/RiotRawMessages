@@ -1,0 +1,10 @@
+{
+    "ResponseBody": [
+        
+    ],
+    "Destination": "lcdsGameInvitationService",
+    "Operation": "getPendingInvitations",
+    "Parameters": [
+        
+    ]
+}

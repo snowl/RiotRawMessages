@@ -1,0 +1,35 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "dataVersion",
+            "Value": 0
+        },
+        {
+            "Key": "summonerRunesJson",
+            "Value": null
+        },
+        {
+            "Key": "dateString",
+            "Value": "Fri Mar 20 21:15:48 PDT 2015"
+        },
+        {
+            "Key": "summonerRunes",
+            "Value": [
+                
+            ]
+        },
+        {
+            "Key": "summonerId",
+            "Value": 2159378272
+        },
+        {
+            "Key": "futureData",
+            "Value": null
+        }
+    ],
+    "Destination": "summonerRuneService",
+    "Operation": "getSummonerRuneInventory",
+    "Parameters": [
+        2159378272
+    ]
+}

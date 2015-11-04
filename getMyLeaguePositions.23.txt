@@ -1,0 +1,15 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "summonerLeagues",
+            "Value": [
+                
+            ]
+        }
+    ],
+    "Destination": "leaguesServiceProxy",
+    "Operation": "getMyLeaguePositions",
+    "Parameters": [
+        
+    ]
+}

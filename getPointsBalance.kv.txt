@@ -1,0 +1,29 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "pointsToNextRoll",
+            "Value": 250
+        },
+        {
+            "Key": "maxRolls",
+            "Value": 2
+        },
+        {
+            "Key": "numberOfRolls",
+            "Value": 1
+        },
+        {
+            "Key": "pointsCostToRoll",
+            "Value": 250
+        },
+        {
+            "Key": "currentPoints",
+            "Value": 250
+        }
+    ],
+    "Destination": "lcdsRerollService",
+    "Operation": "getPointsBalance",
+    "Parameters": [
+        
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "summonerRewards",
+            "Value": [
+                {
+                    "Key": "rewardLevel",
+                    "Value": 0
+                },
+                {
+                    "Key": "points",
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "Key": "summonerLeagues",
+            "Value": [
+                
+            ]
+        },
+        {
+            "Key": "highestTierQueueType",
+            "Value": null
+        },
+        {
+            "Key": "highestTierParticipantId",
+            "Value": null
+        }
+    ],
+    "Destination": "leaguesServiceProxy",
+    "Operation": "getMyLeaguePositionsAndProgress",
+    "Parameters": [
+        
+    ]
+}

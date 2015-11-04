@@ -1,0 +1,76 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "chatKey",
+            "Value": "LJ6XysSgjC"
+        },
+        {
+            "Key": "gameMetaData",
+            "Value": "{\"queueId\":400,\"groupFinderId\":\"66156258-0eb4-42cb-b4b0-9aeecb911dbc\",\"mapId\":11,\"gameTypeConfigId\":18,\"gameMode\":\"CLASSIC\",\"gameMutators\":[],\"gameType\":\"NORMAL_GAME\"}"
+        },
+        {
+            "Key": "owner",
+            "Value": [
+                {
+                    "Key": "summonerName",
+                    "Value": "hzj"
+                },
+                {
+                    "Key": "summonerId",
+                    "Value": 2159378272
+                }
+            ]
+        },
+        {
+            "Key": "members",
+            "Value": [
+                [
+                    {
+                        "Key": "hasDelegatedInvitePower",
+                        "Value": false
+                    },
+                    {
+                        "Key": "summonerName",
+                        "Value": "hzj"
+                    },
+                    {
+                        "Key": "summonerId",
+                        "Value": 2159378272
+                    }
+                ]
+            ]
+        },
+        {
+            "Key": "invitees",
+            "Value": [
+                [
+                    {
+                        "Key": "inviteeStateAsString",
+                        "Value": "CREATOR"
+                    },
+                    {
+                        "Key": "summonerName",
+                        "Value": "hzj"
+                    },
+                    {
+                        "Key": "inviteeState",
+                        "Value": "CREATOR"
+                    },
+                    {
+                        "Key": "summonerId",
+                        "Value": 2159378272
+                    }
+                ]
+            ]
+        },
+        {
+            "Key": "invitationId",
+            "Value": "INVID14993801"
+        }
+    ],
+    "Destination": "lcdsGameInvitationService",
+    "Operation": "checkLobbyStatus",
+    "Parameters": [
+        
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "C36E1E40-16D5-12D1-C374-D2A0BB7C9BDA",
+        "teambuilder-draft",
+        "selectChampionBanV1",
+        "{\"championId\":22}"
+    ]
+}

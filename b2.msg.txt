@@ -1,0 +1,11 @@
+{
+    "Body": {
+        "TypeName": "com.riotgames.platform.serviceproxy.dispatch.LcdsServiceProxyResponse",
+        "payload": null,
+        "Status": "ACK",
+        "MessageId": "D5DDD372-0FAC-7A21-30DF-D2A4B644C717",
+        "MethodName": "selectChampionPickV1",
+        "ServiceName": "teambuilder-draft",
+        "Payload": null
+    }
+}

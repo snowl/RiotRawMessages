@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "C8567885-54AF-9735-A5D9-D29F5168C4BD",
+        "teambuilder-draft",
+        "createDraftPremadeV1",
+        "{\"queueId\":400}"
+    ]
+}

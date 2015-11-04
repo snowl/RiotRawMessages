@@ -1,0 +1,11 @@
+{
+    "ResponseBody": null,
+    "Destination": "lcdsServiceProxy",
+    "Operation": "call",
+    "Parameters": [
+        "D7DD38D4-4CD3-D635-815E-D29EBE346D59",
+        "championMastery",
+        "getChampionMasteryScore",
+        "[2159378272]"
+    ]
+}

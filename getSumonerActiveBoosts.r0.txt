@@ -1,0 +1,37 @@
+{
+    "ResponseBody": [
+        {
+            "Key": "xpBoostEndDate",
+            "Value": 0
+        },
+        {
+            "Key": "xpBoostPerWinCount",
+            "Value": 0
+        },
+        {
+            "Key": "xpLoyaltyBoost",
+            "Value": 0
+        },
+        {
+            "Key": "ipBoostPerWinCount",
+            "Value": 0
+        },
+        {
+            "Key": "ipLoyaltyBoost",
+            "Value": 0
+        },
+        {
+            "Key": "summonerId",
+            "Value": 2159378272
+        },
+        {
+            "Key": "ipBoostEndDate",
+            "Value": 0
+        }
+    ],
+    "Destination": "inventoryService",
+    "Operation": "getSumonerActiveBoosts",
+    "Parameters": [
+        
+    ]
+}
